@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "67d0ac0c3e6145be",
+            "id": "61c922db438f00e8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "23ab54f3b5a44a00",
@@ -166,8 +167,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,13 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f562257219a1bb91",
+  "active": "3ce35459127171e8",
   "lastOpenFiles": [
-    "_Excalidraw/Pointer0.md",
+    "PENDING.md",
     "NOTES/Computer Science/Pointer.md",
+    "_Excalidraw/Pointer0.md",
     "Excalidraw",
     "NOTES/Computer Science/ProgrammingLanguage.md",
-    "PENDING.md",
     "PLDC.md",
     "Uni/Phys/VLDC.md",
     "NOTES/Computer Science/Utility/Make.md",
