@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ab503933dc1f3a6e",
+        "id": "11752664db206767",
         "type": "tabs",
         "children": [
           {
-            "id": "23bcb1a76247b14d",
+            "id": "18b742bb58f850ac",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "PENDING.md"
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "3ce35459127171e8",
+            "id": "88124d84afa575de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Computer Science/Pointer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61c922db438f00e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_Excalidraw/Pointer0.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 259.5026054382324,
     "collapsed": true
   },
   "right": {
@@ -107,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Computer Science/Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Computer Science/Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NOTES/Computer Science/Pointer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 295.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,47 +168,48 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "3ce35459127171e8",
+  "active": "88124d84afa575de",
   "lastOpenFiles": [
     "PENDING.md",
-    "NOTES/Computer Science/Pointer.md",
+    "NOTES/Workspace/Setting up Arch.md",
+    "Untitled 1.md",
+    "PLDC.md",
+    "NOTES/Discrete Math/000-Discrete-and-Continuous.md",
+    "NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/001-INTRODUCTION.md",
+    "NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/002-Logic-Variables-Compound-Propositions.md",
+    "NOTES/Discrete Math/Untitled 1.md",
+    "NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic",
+    "NOTES/Discrete Math/Untitled.md",
+    "NOTES/AI-ML/Algorithm/Linear-Regression.md",
+    "NOTES/Computer Science/Algorithm/Big O notation.md",
+    "_Excalidraw/DiscreteAndContinuous.md",
+    "NOTES/Game Dev/Physic/Study Plan.md",
+    "Untitled.md",
+    "23-03-2023.md",
+    "NOTES/AI-ML/0a-Study-Plan.md",
+    "NOTES/Game Dev/Physic/Untitled.md",
+    "NOTES/Game Dev/SDL/SDL-Study-Plan.md",
     "_Excalidraw/Pointer0.md",
+    "NOTES/Computer Science/Pointer.md",
     "Excalidraw",
     "NOTES/Computer Science/ProgrammingLanguage.md",
-    "PLDC.md",
     "Uni/Phys/VLDC.md",
     "NOTES/Computer Science/Utility/Make.md",
-    "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md",
-    "NOTES/Game Dev/Physic/Physics for game dev.md",
     "NOTES/Game Dev/Physic",
     "NOTES/Computer Science/Compiler/Compiler-Flag.md",
     "Fleeting Note/TODO.md",
     "NOTES/Game Dev/Visual Scripting Unity/SuperUnit.md",
-    "NOTES/Game Dev/Visual Scripting Unity/2D Plaformer.md",
-    "INDEX.md",
-    "Fleeting Note/App Ideas.md",
-    "NOTES/Wellbeing/Calories.md",
-    "NOTES/Workspace/Moving-WSL-To-Another-Drive.md",
-    "NOTES/Wellbeing/Nutrient Calculation.md",
     "NOTES/Wellbeing",
     "NOTES/Workspace",
-    "NOTES/Game Dev/SDL/SDL-Study-Plan.md",
     "NOTES/Game Dev/Cpp",
-    "NOTES/AI-ML/0a-Study-Plan.md",
-    "NOTES/AI-ML/0b-Setting Up.md",
-    "NOTES/AI-ML/3-Saving-Model-and-Plotting-Data.md",
-    "NOTES/AI-ML/2-Linear-Regression-p2.md",
-    "NOTES/AI-ML/Algorithm/Linear-Regression.md",
-    "_Excalidraw/LinearRegression1.md",
-    "_Excalidraw/LinearRegression.md",
     "NOTES/Game Dev/SDL",
     "NOTES/AI-ML/Algorithm",
     "NOTES/AI-ML/Data Set",
     "NOTES/Untitled 1",
-    "NOTES/AI-ML",
     "Blender Wiki/BLENDER.canvas",
     "Media/Blender/BlenderDefaultInterface.png",
     "Pasted Image 20230310190059_410.png"

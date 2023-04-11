@@ -7,5 +7,7 @@
   "obsidian-reminder-plugin",
   "obsidian-kanban",
   "execute-code",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "homepage",
+  "obsidian-vimrc-support"
 ]

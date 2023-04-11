@@ -4,6 +4,13 @@ kanban-plugin: basic
 
 ---
 
+## StudyPlans
+
+- [ ] [[Study Plan]]<br>- GamePhys
+- [ ] [[SDL-Study-Plan]]<br>- GameGraphics
+- [ ] [[0a-Study-Plan]]<br>- AI-ML
+
+
 ## Untouch
 
 - [ ] - [ ] [[Big O notation]]

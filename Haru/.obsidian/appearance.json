@@ -1,10 +1,12 @@
 {
-  "accentColor": "",
+  "accentColor": "#ffc2c6",
   "cssTheme": "Catppuccin",
   "translucency": false,
-  "interfaceFontFamily": "RobotoMono Nerd Font Mono,FiraCode NF,Montserrat",
+  "interfaceFontFamily": "RobotoMono Nerd Font Mono,JetBrains Mono,FiraCode NF,Montserrat",
   "textFontFamily": "JetBrains Mono,Montserrat",
   "monospaceFontFamily": "JetBrains Mono,RobotoMono Nerd Font Mono",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }
