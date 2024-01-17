@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "dace39b691b821e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "89269c446dda6b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7629f6ca63af9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a647f6e11e73c4b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "825adf9c56b59053",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "862468e8c008b3f9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ba8e114efcbb06a5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d076f42042f33751",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "9fa139d6c9527d02",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "41bf49ec9757e8cf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "424a25b137ab07a0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "OOP.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ae44d6e8a5d5f3a9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "OOP.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4b66b3587f88bfc5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "OOP.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c7629f6ca63af9fe",
+  "lastOpenFiles": [
+    "Haru/PLDC.md",
+    "Haru/PENDING.md",
+    "OOP.md",
+    "Haru/NOTES/Computer Science/Compiler/C-And-Cpp-Compiler.md",
+    "Haru/NOTES/AI-ML/1-Linear-Regression-p1.md",
+    "Haru/NOTES/Workspace/Setting up Arch.md",
+    "Haru/Untitled 1.md",
+    "Haru/NOTES/Game Dev/Physic/Untitled.md",
+    "Haru/NOTES/Computer Science/Utility/Make.md",
+    "Haru/NOTES/Computer Science/Algorithm/Big O notation.md",
+    "Haru/NOTES/AI-ML/0a-Study-Plan.md",
+    "Haru/NOTES/Computer Science/ProgrammingLanguage.md",
+    "Haru/_Excalidraw/LinearRegression.md",
+    "Haru/Uni/Phys/VLDC.md",
+    "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/001-INTRODUCTION.md",
+    "Haru/NOTES/AI-ML/Data Set/Student Performance Data Set.md",
+    "Haru/NOTES/Game Dev/Visual Scripting Unity/SuperUnit.md",
+    "Haru/NOTES/Game Dev/Visual Scripting Unity/2D Plaformer.md",
+    "Haru/_Excalidraw/DiscreteAndContinuous.md",
+    "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/002-Logic-Variables-Compound-Propositions.md",
+    "Haru/NOTES/Computer Science/Compiler/Compiler-Flag.md",
+    "Haru/_Excalidraw/LinearRegression1.md",
+    "Haru/NOTES/Wellbeing/Calories.md",
+    "Haru/NOTES/AI-ML/0b-Setting Up.md",
+    "Haru/NOTES/AI-ML/Algorithm/Linear-Regression.md",
+    "Haru/NOTES/Game Dev/SDL/SDL-Study-Plan.md",
+    "Haru",
+    "Haru/_Excalidraw",
+    "Haru/Fleeting Note",
+    "Haru/Uni",
+    "Haru/NOTES/Computer Science/Utility",
+    "Haru/NOTES/Computer Science/Compiler",
+    "Haru/NOTES/Computer Science/Algorithm",
+    "Haru/NOTES/Game Dev/Visual Scripting Unity",
+    "Haru/NOTES/Game Dev/SDL",
+    "Haru/NOTES/Game Dev/Physic"
+  ]
+}
