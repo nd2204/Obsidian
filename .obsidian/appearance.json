@@ -1,6 +1,7 @@
 {
   "accentColor": "#bb88bb",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Everforest",
   "textFontFamily": "JetBrains Mono NL",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font"
 }

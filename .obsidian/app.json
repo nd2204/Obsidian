@@ -1,6 +1,7 @@
 {
-  "tabSize": 3,
+  "tabSize": 4,
   "showLineNumber": true,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }
