@@ -1,7 +1,4 @@
 {
-  "tabSize": 4,
-  "showLineNumber": true,
-  "spellcheck": false,
-  "promptDelete": false,
-  "vimMode": false
+  "vimMode": true,
+  "showUnsupportedFiles": true
 }

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0020fe7c4e0ca3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Discrete Math/Discrete-and-Continuous.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Discrete Math/Discrete-and-Continuous.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Discrete Math/Discrete-and-Continuous.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "773626b53bd3b9ce",
+  "active": "e0020fe7c4e0ca3c",
   "lastOpenFiles": [
-    "NOTES/Game Dev/Physic/Physics for game dev.md",
     "NOTES/Discrete Math/Discrete-and-Continuous.md",
+    "conflict-files-obsidian-git.md",
+    "Uni/Thiết bị mạng.md",
+    "Uni/TTHCM/TTHCM.md",
+    "Uni/TTHCM",
+    "Uni/NLHDH/Course Info.md",
+    "Uni/NLHDH",
+    "OpenGL/Vertext Buffer Object (VBO).md",
+    "OpenGL",
+    "New word.md",
+    "NOTES/Game Dev/Physic/Physics for game dev.md",
     "NOTES/Computer Science/Algorithm/Big O notation.md",
     "Uni/Phys/VLDC.md"
   ]

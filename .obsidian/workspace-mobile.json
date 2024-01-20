@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7629f6ca63af9fe",
+            "id": "06a8064878c2c390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP.md",
+                "file": "Uni/NLHDH/Course Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Mainstream",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "OOP.md",
+            "file": "Uni/NLHDH/Course Info.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "OOP.md",
+            "file": "Uni/NLHDH/Course Info.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "OOP.md"
+            "file": "Uni/NLHDH/Course Info.md"
           }
         }
       }
@@ -140,11 +140,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7629f6ca63af9fe",
+  "active": "06a8064878c2c390",
   "lastOpenFiles": [
+    "Uni/NLHDH",
+    "New word.md",
+    "Uni/NLHDH/Course Info.md",
+    "Uni/Thiết bị mạng.md",
+    "OpenGL/Vertext Buffer Object (VBO).md",
+    "Uni/TTHCM/TTHCM.md",
+    "NOTES/Wellbeing/Nutrient Calculation.md",
+    "Fleeting Note/App Ideas.md",
+    "Uni/Untitled 1",
+    "Untitled.md",
+    "Uni/TTHCM/Media",
+    "Uni/TTHCM",
+    "TTHCM/Media/IMG_0496.jpeg",
+    "OpenGL",
+    "OOP.md",
     "Haru/PLDC.md",
     "Haru/PENDING.md",
-    "OOP.md",
     "Haru/NOTES/Computer Science/Compiler/C-And-Cpp-Compiler.md",
     "Haru/NOTES/AI-ML/1-Linear-Regression-p1.md",
     "Haru/NOTES/Workspace/Setting up Arch.md",
@@ -159,24 +173,11 @@
     "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/001-INTRODUCTION.md",
     "Haru/NOTES/AI-ML/Data Set/Student Performance Data Set.md",
     "Haru/NOTES/Game Dev/Visual Scripting Unity/SuperUnit.md",
-    "Haru/NOTES/Game Dev/Visual Scripting Unity/2D Plaformer.md",
-    "Haru/_Excalidraw/DiscreteAndContinuous.md",
-    "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/002-Logic-Variables-Compound-Propositions.md",
-    "Haru/NOTES/Computer Science/Compiler/Compiler-Flag.md",
-    "Haru/_Excalidraw/LinearRegression1.md",
-    "Haru/NOTES/Wellbeing/Calories.md",
-    "Haru/NOTES/AI-ML/0b-Setting Up.md",
-    "Haru/NOTES/AI-ML/Algorithm/Linear-Regression.md",
-    "Haru/NOTES/Game Dev/SDL/SDL-Study-Plan.md",
     "Haru",
     "Haru/_Excalidraw",
     "Haru/Fleeting Note",
     "Haru/Uni",
     "Haru/NOTES/Computer Science/Utility",
-    "Haru/NOTES/Computer Science/Compiler",
-    "Haru/NOTES/Computer Science/Algorithm",
-    "Haru/NOTES/Game Dev/Visual Scripting Unity",
-    "Haru/NOTES/Game Dev/SDL",
-    "Haru/NOTES/Game Dev/Physic"
+    "Haru/NOTES/Computer Science/Compiler"
   ]
 }
