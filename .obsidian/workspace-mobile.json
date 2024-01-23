@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/NLHDH/Course Info.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e9d31b98c2a3cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/CTDL và Giải thuật/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f39de63e2234c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Uni/NLHDH/Course Info.md",
+            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Uni/NLHDH/Course Info.md",
+            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Uni/NLHDH/Course Info.md"
+            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md"
           }
         }
       }
@@ -140,23 +165,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06a8064878c2c390",
+  "active": "e7f39de63e2234c9",
   "lastOpenFiles": [
-    "Uni/NLHDH",
-    "New word.md",
+    "Uni/TACN",
+    "Uni/NLOOP",
+    "Uni/TACN/New word.md",
+    "AI4G/N1.md",
+    "Uni/CTDL và Giải thuật/Untitled 1.md",
+    "AI4G",
+    "Untitled.md",
+    "Uni/CTDL và Giải thuật",
     "Uni/NLHDH/Course Info.md",
+    "Uni/NLHDH",
     "Uni/Thiết bị mạng.md",
     "OpenGL/Vertext Buffer Object (VBO).md",
     "Uni/TTHCM/TTHCM.md",
     "NOTES/Wellbeing/Nutrient Calculation.md",
     "Fleeting Note/App Ideas.md",
     "Uni/Untitled 1",
-    "Untitled.md",
     "Uni/TTHCM/Media",
     "Uni/TTHCM",
     "TTHCM/Media/IMG_0496.jpeg",
     "OpenGL",
-    "OOP.md",
+    "Uni/NLOOP/Các nguyên lý cơ bản.md",
     "Haru/PLDC.md",
     "Haru/PENDING.md",
     "Haru/NOTES/Computer Science/Compiler/C-And-Cpp-Compiler.md",
@@ -171,13 +202,7 @@
     "Haru/_Excalidraw/LinearRegression.md",
     "Haru/Uni/Phys/VLDC.md",
     "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/001-INTRODUCTION.md",
-    "Haru/NOTES/AI-ML/Data Set/Student Performance Data Set.md",
-    "Haru/NOTES/Game Dev/Visual Scripting Unity/SuperUnit.md",
     "Haru",
-    "Haru/_Excalidraw",
-    "Haru/Fleeting Note",
-    "Haru/Uni",
-    "Haru/NOTES/Computer Science/Utility",
-    "Haru/NOTES/Computer Science/Compiler"
+    "Haru/_Excalidraw"
   ]
 }

@@ -1,4 +1,5 @@
 {
   "vimMode": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": false
 }
