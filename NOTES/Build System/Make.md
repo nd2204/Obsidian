@@ -128,11 +128,12 @@ main.c:
 
 - Biến trong make chỉ có thể là xâu (string). thường thì bạn cần dùng `:=` hoặc `=` 
 Đây là ví dụ của việc dùng biến:
-```makefile
+
+```sh
 files := file1 file2
 
 some_file: $(files)
-	echo "Look at thí variable: " $(files)
+	echo "Look at this variable: " $(files)
 	touch some_file
 
 file1:
@@ -145,7 +146,8 @@ clean:
 ```
 
 - Ngoặc đơn hoặc ngoặc kép không có ý nghĩa gì trong makefile. Chúng đơn giản chỉ là những ký tự được gán cho biến (Trong shell/bash thì ngược lại chúng rất hữu ích vd ta dùng nó trong câu lệnh printf):
-```makefile
+
+```sh
 a:= one two # a được gán cho xâu "one two"
 b:= 'one two' # không nên làm như này vì b sẽ được gán cho xâu "'one two'"
 
@@ -155,8 +157,8 @@ all:
 ```
 
 - Ta sử dụng biến bằng cách `${Ten_bien}` hoặc `$(Ten_bien)`
-```makefile
 
+```sh
 all:
 	echo $(x)
 	echo ${x}
@@ -165,7 +167,8 @@ all:
 ### *TARGETS*
 ##### THE ALL TARGET
 - khi ta có nhiều *target* mà ta muốn chạy tất cả, ta sử dụng target tên all. Rule này luôn nằm trên tất cả target còn lại nên nó sẽ được chạy mặc định khi ta không gán target khi chạy câu lệnh make trong terminal:
-```makefile
+
+```sh
 all: one two three
 
 one: 
@@ -181,7 +184,8 @@ clean:
 ##### MULTIPLE TARGETS
 - Khi ta có nhiều *target* trên 1 rul, các câu lệnh bên trong nó sẽ chạy cho mỗi *target*
 	- `$@` là một ==biến tự động== nó sẽ chứa tên của target.
-```makefile
+
+```sh
 all: f1.o f2.o
 
 f1.o f2.o:
@@ -189,7 +193,8 @@ f1.o f2.o:
 ```
 
 - Câu lệnh trên tương đương với
-``` makefile
+
+```sh
 f1.o:
 	echo f1.o
 f2.o:
@@ -204,7 +209,7 @@ f2.o:
 > [!important] 
 > Ta nên bọc `*` bên trong hàm wildcard để có thể tránh được những rủi ro phía dưới
 
-```makefile
+```sh
 # In ra màn hình thông tin của mỗi tệp có đuôi .c
 print: $(wildcard *.c)
 	ls -la $? # Biến tự động này sẽ trả về những tệp prerequisite mới hơn target
@@ -216,7 +221,7 @@ print: $(wildcard *.c)
 > - Không nên sử dụng `*` như một giá trị của biến
 > - Khi `*` không khớp với bất cứ tệp nào, nó để nguyên ở đó (trừ khi ta dùng hàm wildcard)
 
-``` makefile
+```sh
 sai  := *.o # Không nên làm điều này bởi vì `*` sẽ không được mở rộng
 dung := $(wildcard *.o) 
 
@@ -240,7 +245,7 @@ four: $(wildcard *.o)
 ---
 # **MAKE TERMINAL COMMANDS**
 ---
-### BASIC COMMANDS
+### BASIC COMMANDS.
 ---
 
 1. Trong [Terminal Window](Terminal.md) (Cửa sổ chương trình đầu cuối) [cd](Terminal.md) đến thư mục chứa các tệp mã nguồn và Makefile.
@@ -258,7 +263,8 @@ four: $(wildcard *.o)
 > [!help] 
 > Dưới đây là mẫu file Makefile hoạt động tốt với những dự án tầm trung
 > Tất cả những gì bạn cần làm là cho file .c .cpp vào bên trong thư mục `src/`
-```makefile
+
+```sh
 # Thanks to Job Vranish (https://spin.atomicobject.com/2016/08/26/makefile-c-projects/) TARGET_EXEC := final_program 
 
 BUILD_DIR := ./build 

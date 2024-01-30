@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "89269c446dda6b06",
+        "id": "21b5113455768568",
         "type": "tabs",
         "children": [
           {
-            "id": "06a8064878c2c390",
+            "id": "3913042d8fef4138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e9d31b98c2a3cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/CTDL và Giải thuật/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f39de63e2234c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
+                "file": "NOTES/OpenGL/Opengl Buffers/VBO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
+            "file": "NOTES/OpenGL/Opengl Buffers/VBO.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md",
+            "file": "NOTES/OpenGL/Opengl Buffers/VBO.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Uni/NLOOP/Các nguyên lý cơ bản.md"
+            "file": "NOTES/OpenGL/Opengl Buffers/VBO.md"
           }
         }
       }
@@ -165,44 +140,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7f39de63e2234c9",
+  "active": "3913042d8fef4138",
   "lastOpenFiles": [
+    "_Excalidraw/Pointer0.md",
+    "2024-01-30.md",
+    "Excalidraw/Drawing 2024-01-30 16.32.11.excalidraw.md",
+    "_Excalidraw/LinearRegression1.md",
+    "NOTES/OpenGL/Opengl Buffers/VAO.md",
+    "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md",
+    "NOTES/OpenGL/Opengl Buffers/VBO.md",
+    "Untitled 1.md",
+    "Excalidraw/VAO.md",
+    "Excalidraw/Drawing 2024-01-30 16.06.53.excalidraw.md",
+    "Excalidraw",
+    "NOTES/OpenGL/Opengl Buffers/What is a buffer in Opengl.md",
+    "NOTES/OpenGL/Opengl Rendering pipeline.md",
+    "NOTES/OpenGL/Opengl Buffers.md",
+    "NOTES/OpenGL/Opengl Buffers",
+    "NOTES/OpenGL/Uniform.md",
+    "NOTES/Computer Science/Pointer.md",
+    "NOTES/AI-ML/0b-Setting Up.md",
+    "NOTES/AI-ML/2-Linear-Regression-p2.md",
+    "NOTES/Build System/Make.md",
+    "Fleeting Note/App Ideas.md",
+    "PENDING.md",
+    "Untitled 1",
+    "NOTES/Computer Science/ProgrammingLanguage.md",
+    "NOTES/Discrete Math/Discrete-and-Continuous.md",
+    "NOTES/Game Dev/Physic/Physics for game dev.md",
+    "NOTES/Computer Science/Compiler/Compiler-Flag.md",
+    "NOTES/Computer Science/Compiler/C-And-Cpp-Compiler.md",
+    "NOTES/Wellbeing/Nutrient Calculation.md",
     "Uni/TACN",
     "Uni/NLOOP",
-    "Uni/TACN/New word.md",
-    "AI4G/N1.md",
-    "Uni/CTDL và Giải thuật/Untitled 1.md",
     "AI4G",
-    "Untitled.md",
     "Uni/CTDL và Giải thuật",
-    "Uni/NLHDH/Course Info.md",
     "Uni/NLHDH",
-    "Uni/Thiết bị mạng.md",
-    "OpenGL/Vertext Buffer Object (VBO).md",
-    "Uni/TTHCM/TTHCM.md",
-    "NOTES/Wellbeing/Nutrient Calculation.md",
-    "Fleeting Note/App Ideas.md",
     "Uni/Untitled 1",
     "Uni/TTHCM/Media",
-    "Uni/TTHCM",
-    "TTHCM/Media/IMG_0496.jpeg",
-    "OpenGL",
-    "Uni/NLOOP/Các nguyên lý cơ bản.md",
-    "Haru/PLDC.md",
-    "Haru/PENDING.md",
-    "Haru/NOTES/Computer Science/Compiler/C-And-Cpp-Compiler.md",
-    "Haru/NOTES/AI-ML/1-Linear-Regression-p1.md",
-    "Haru/NOTES/Workspace/Setting up Arch.md",
-    "Haru/Untitled 1.md",
-    "Haru/NOTES/Game Dev/Physic/Untitled.md",
-    "Haru/NOTES/Computer Science/Utility/Make.md",
-    "Haru/NOTES/Computer Science/Algorithm/Big O notation.md",
-    "Haru/NOTES/AI-ML/0a-Study-Plan.md",
-    "Haru/NOTES/Computer Science/ProgrammingLanguage.md",
-    "Haru/_Excalidraw/LinearRegression.md",
-    "Haru/Uni/Phys/VLDC.md",
-    "Haru/NOTES/Discrete Math/1-Propositional-Logic-And-First-Order-Logic/001-INTRODUCTION.md",
-    "Haru",
-    "Haru/_Excalidraw"
+    "TTHCM/Media/IMG_0496.jpeg"
   ]
 }

@@ -13,7 +13,10 @@ Unified - thống nhất, hợp nhất
 Stochastic - ngẫu nhiên
 
 ---
+Bespoke software - phần mềm tuỳ chỉnh
+Portability - tính linh động
 
+---
 gross national product - tổng sp quốc dân
 elicitation - thu thập
 
@@ -23,3 +26,6 @@ bewildering - làm cho hoang mang
 inadequacies - sự không tương xứng
 outstrips - vượt xa
 perennial - bất diệt, tồn tại mãi 
+
+---
+Overhead - tổng phí - cost
