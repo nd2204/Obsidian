@@ -576,6 +576,10 @@ pre[class^="language-"]::after {
 pre.language-applescript::after {
     content: "AppleScript";
 }
+pre.language-armasm::after,
+pre.language-arm-asm::after {
+    content: "ARM Assembly";
+}
 pre.language-bash::after {
     content: "Bash";
 }
@@ -624,11 +628,12 @@ pre.language-lua::after {
 pre.language-makefile::after {
     content: "Makefile";
 }
+pre.language-md::after,
 pre.language-markdown::after {
     content: "Markdown";
 }
-pre.language-md::after {
-    content: "Markdown";
+pre.language-matlab::after {
+    content: "MATLAB";
 }
 pre.language-nginx::after {
     content: "Nginx";
@@ -817,6 +822,8 @@ input.task-list-item-checkbox:checked::after {
 }
 
 /* Fix table margin collapse bug and add table margins */
+/* They keep changing this and it breaks the theme every time, I'm quite annoyed... */
+.markdown-preview-view .block-language-dataview,
 .markdown-preview-view div:not([class]):has(> table) {
     overflow: unset !important;
 
@@ -1103,7 +1110,7 @@ settings:
 -
     id: element-settings
     title: Elements
-    description: Canvas, headers, image embeds, links, lists, tables
+    description: Canvas, headers, image embeds, links, lists, math blocks, tables
     type: heading
     level: 1
     collapsed: true
@@ -1339,6 +1346,17 @@ settings:
     type: variable-number
     default: 28
     format: px
+-
+    id: math-settings
+    title: Math blocks
+    type: heading
+    level: 2
+    collapsed: true
+-
+    id: disable-math-outline
+    title: Math blocks - Disable outline
+    description: Removes the outline around math blocks.
+    type: class-toggle
 -
     id: table-settings
     title: Tables
@@ -1743,6 +1761,19 @@ body.image-embed-enable-zoom {
 /* List indent size */
 /* Set in the body selector at the top */
 
+/* Math */
+/* Outlines for math blocks (enabled by default) */
+body:not(.disable-math-outline)
+    :is(
+        div.math-block,
+        span.math-block > mjx-container,
+        .math.math-block.cm-embed-block
+    ) {
+    border: 1px solid var(--bg5);
+    border-radius: 5px;
+}
+
+/* Tables */
 /* Centered tables */
 body.centered-tables table {
     margin-inline: auto;
@@ -2373,14 +2404,10 @@ body:not(.no-image-alttext-caption)
 /* Make math display better */
 div.math-block {
     padding-block: 0.125em;
-    border: 1px solid #fff2;
-    border-radius: 5px;
 }
 /* Make the weird span ones also work */
-p span.math-block > mjx-container {
+span.math-block > mjx-container {
     padding-block: 1rem;
-    border: 1px solid #fff2;
-    border-radius: 5px;
 }
 
 /* Make MathJax text bigger */
@@ -2390,12 +2417,6 @@ p span.math-block > mjx-container {
 /* Make \overline{} display on higher resolution screens*/
 mjx-stretchy-h.mjx-c2013 mjx-ext mjx-c::before {
     font-weight: 900;
-}
-
-/* Add Outline to Math */
-.math.math-block.cm-embed-block {
-    border: 1px solid #fff2;
-    border-radius: 5px;
 }
 
 /* Make print break hr elements */

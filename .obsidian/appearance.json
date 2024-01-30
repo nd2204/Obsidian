@@ -3,5 +3,6 @@
   "cssTheme": "Tokyo Night",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font"
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font",
+  "translucency": false
 }
