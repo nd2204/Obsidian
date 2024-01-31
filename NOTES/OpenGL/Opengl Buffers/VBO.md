@@ -1,3 +1,0 @@
-tag: #opengl #graphic #Programming 
-
----

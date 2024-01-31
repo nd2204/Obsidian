@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f265dd5dce614df2",
+        "id": "8440a4cb05d10980",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddf6cc15e741a2f",
+            "id": "a3ec0662ffb5a6e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md"
+                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "96960b049fd25483",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md",
+                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md",
+                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md"
+                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md"
               }
             }
           }
@@ -146,11 +147,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ddf6cc15e741a2f",
+  "active": "a3ec0662ffb5a6e0",
   "lastOpenFiles": [
-    "_Excalidraw/Drawing 2023-03-14 16.54.38.excalidraw.md",
-    "NOTES/OpenGL/Opengl Buffers/VBO.md",
+    "NOTES/OpenGL/Buffers/2. Vertex Array Object (VAO).md",
+    "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+    "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
+    "Excalidraw/VAO.md",
+    "Excalidraw/Drawing 2024-01-31 16.23.33.excalidraw.md",
+    "NOTES/AI-ML/Algorithm/Linear-Regression.md",
+    "NOTES/AI-ML/2-Linear-Regression-p2.md",
+    "NOTES/AI-ML/1-Linear-Regression-p1.md",
+    "Excalidraw/LinearRegression.md",
+    "Excalidraw/LinearRegression1.md",
+    "PENDING.md",
+    "Excalidraw/Pointer0.md",
+    "Excalidraw",
     "Excalidraw/Drawing 2024-01-30 22.32.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 16.32.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 16.06.53.excalidraw.md",
     "NOTES/Discrete Math/Discrete-and-Continuous.md",
     "Uni/TTHCM/Chương II.md",
     "Uni/TACN/New word.md",
@@ -161,28 +175,15 @@
     "Uni/NLOOP",
     "Uni/CTDL và Giải thuật/Untitled 1.md",
     "Uni/CTDL và Giải thuật",
-    "NOTES/OpenGL/Opengl Buffers/What is a buffer in Opengl.md",
-    "NOTES/OpenGL/Opengl Buffers/VAO.md",
     "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/OpenGL Shader.md",
     "NOTES/OpenGL/Opengl Rendering pipeline.md",
-    "NOTES/OpenGL/Opengl Buffers",
+    "NOTES/OpenGL/Buffers",
     "NOTES/OpenGL",
     "NOTES/Build System/Make.md",
     "NOTES/Build System",
-    "Excalidraw/VAO.md",
-    "Excalidraw/Drawing 2024-01-30 16.32.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 16.06.53.excalidraw.md",
-    "Excalidraw",
-    "AI4G/N1.md",
     "AI4G",
-    "conflict-files-obsidian-git.md",
-    "Uni/Thiết bị mạng.md",
-    "Uni/TTHCM/TTHCM.md",
     "Uni/TTHCM",
-    "Uni/NLHDH/Course Info.md",
-    "Uni/NLHDH",
-    "OpenGL/Vertext Buffer Object (VBO).md",
-    "New word.md"
+    "Uni/NLHDH"
   ]
 }
