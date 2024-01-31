@@ -25,6 +25,6 @@
     "editor:configure-toolbar",
     "editor:insert-codeblock"
   ],
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true
 }

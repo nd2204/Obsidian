@@ -15,7 +15,6 @@ void main() {
 }
 ```
 
-
 In order to use an uniform in opengl we first need to get its location in the gpu memory by using:
 
 ```cpp

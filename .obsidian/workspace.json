@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "96960b049fd25483",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md"
+                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md"
               }
             }
           }
@@ -147,10 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3ec0662ffb5a6e0",
+  "active": "773626b53bd3b9ce",
   "lastOpenFiles": [
-    "NOTES/OpenGL/Buffers/2. Vertex Array Object (VAO).md",
+    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
+    "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
     "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+    "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
     "Excalidraw/VAO.md",
     "Excalidraw/Drawing 2024-01-31 16.23.33.excalidraw.md",
@@ -175,12 +178,10 @@
     "Uni/NLOOP",
     "Uni/CTDL và Giải thuật/Untitled 1.md",
     "Uni/CTDL và Giải thuật",
-    "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/OpenGL Shader.md",
     "NOTES/OpenGL/Opengl Rendering pipeline.md",
     "NOTES/OpenGL/Buffers",
     "NOTES/OpenGL",
-    "NOTES/Build System/Make.md",
     "NOTES/Build System",
     "AI4G",
     "Uni/TTHCM",
