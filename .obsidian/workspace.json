@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcdc6acf7eaa3a48",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/vertex-attribute.md"
+              }
+            }
           }
         ]
       }
@@ -148,11 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "773626b53bd3b9ce",
+  "active": "a3ec0662ffb5a6e0",
   "lastOpenFiles": [
-    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
+    "Excalidraw/vertex-attribute.md",
     "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
     "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
+    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
     "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
     "Excalidraw/VAO.md",
@@ -179,7 +190,6 @@
     "Uni/CTDL và Giải thuật/Untitled 1.md",
     "Uni/CTDL và Giải thuật",
     "NOTES/OpenGL/OpenGL Shader.md",
-    "NOTES/OpenGL/Opengl Rendering pipeline.md",
     "NOTES/OpenGL/Buffers",
     "NOTES/OpenGL",
     "NOTES/Build System",
