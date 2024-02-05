@@ -26,5 +26,8 @@
     "editor:insert-codeblock"
   ],
   "promptDelete": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current"
 }
