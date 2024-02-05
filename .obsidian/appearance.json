@@ -4,5 +4,7 @@
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font",
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 16,
+  "showViewHeader": true
 }

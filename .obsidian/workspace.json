@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8440a4cb05d10980",
+        "id": "5b3f2830caba9197",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ec0662ffb5a6e0",
+            "id": "205891feb6ab5ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bcdc6acf7eaa3a48",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/vertex-attribute.md"
               }
             }
           }
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "96960b049fd25483",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md"
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md"
               }
             }
           }
@@ -158,8 +147,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3ec0662ffb5a6e0",
+  "active": "205891feb6ab5ee4",
   "lastOpenFiles": [
+    "NOTES/OpenGL/Coordinate/2. World space.md",
+    "NOTES/OpenGL/Coordinate/3. View space.md",
+    "NOTES/OpenGL/Coordinate/1. Local space.md",
+    "NOTES/OpenGL/Coordinate/0. Coordinate Systems.md",
+    "NOTES/OpenGL/Texture/3. Mipmap.md",
+    "NOTES/OpenGL/Coordinate",
+    "NOTES/OpenGL/Texture/2. Texture Filtering.md",
+    "NOTES/OpenGL/images/mipmap.png",
+    "3. Texture.md",
+    "NOTES/OpenGL/Texture/1. Texture Wrapping.md",
+    "NOTES/OpenGL/images/texture_filtering.png",
+    "Pasted image 20240202190710.png",
+    "Pasted image 20240202190725.png",
+    "Pasted image 20240202190633.png",
+    "NOTES/OpenGL/images/filter_bilinear.png",
+    "NOTES/OpenGL/images/filter_nearest.png",
+    "NOTES/OpenGL/images/texture_wrapping.png",
+    "NOTES/OpenGL/Texture/0. Textures.md",
+    "NOTES/OpenGL/Textures.md",
+    "NOTES/OpenGL/texture/1. Texture Wrapping",
+    "NOTES/OpenGL/texture/0.Textures.md",
+    "NOTES/OpenGL/texture/Textures.md",
+    "NOTES/OpenGL/Texture",
+    "NOTES/OpenGL/Buffers/texture",
     "Excalidraw/vertex-attribute.md",
     "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
     "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
@@ -174,27 +187,11 @@
     "Excalidraw/LinearRegression.md",
     "Excalidraw/LinearRegression1.md",
     "PENDING.md",
-    "Excalidraw/Pointer0.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-01-30 22.32.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 16.32.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 16.06.53.excalidraw.md",
-    "NOTES/Discrete Math/Discrete-and-Continuous.md",
-    "Uni/TTHCM/Chương II.md",
-    "Uni/TACN/New word.md",
     "Uni/TACN",
-    "Uni/PLDC.md",
-    "Uni/NLOOP/Các nguyên lý cơ bản.md",
-    "Uni/NLOOP/Class and Object.md",
     "Uni/NLOOP",
-    "Uni/CTDL và Giải thuật/Untitled 1.md",
     "Uni/CTDL và Giải thuật",
-    "NOTES/OpenGL/OpenGL Shader.md",
     "NOTES/OpenGL/Buffers",
-    "NOTES/OpenGL",
-    "NOTES/Build System",
-    "AI4G",
-    "Uni/TTHCM",
-    "Uni/NLHDH"
+    "NOTES/OpenGL"
   ]
 }
