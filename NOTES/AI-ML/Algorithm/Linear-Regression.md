@@ -1,4 +1,4 @@
-tags: #Algorithm #DataScience
+tags: #algorithm #DataScience
 
 ---
 ### BẢN CHẤT
