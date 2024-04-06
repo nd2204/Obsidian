@@ -1,10 +1,11 @@
 {
-  "accentColor": "#bb88bb",
-  "cssTheme": "Tokyo Night",
+  "accentColor": "#fabd2f",
+  "cssTheme": "Obsidian gruvbox",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font",
   "translucency": false,
   "baseFontSize": 16,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "theme": "obsidian"
 }
