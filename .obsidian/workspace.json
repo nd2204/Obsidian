@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd56c20d97a0ad97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "96960b049fd25483",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Thread.md",
+                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Thread.md",
+                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Thread.md"
+                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md"
               }
             }
           }
@@ -161,11 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "277d74d1c1c4ec8e",
+  "active": "dd56c20d97a0ad97",
   "lastOpenFiles": [
+    "NOTES/Computer Science/Concurrent_Programming/Thread.md",
+    "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
     "Etsy.md",
     "NOTES/OpenGL/Coordinate/3. View space.md",
-    "NOTES/Computer Science/Concurrent_Programming/Thread.md",
     "NOTES/Computer Science/Untitled.md",
     "NOTES/Computer Science/Concurrent_Programming",
     "Pasted image 20240405151622.png",
@@ -204,7 +216,6 @@
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
     "Excalidraw/VAO.md",
     "Excalidraw/Drawing 2024-01-31 16.23.33.excalidraw.md",
-    "NOTES/AI-ML/Algorithm/Linear-Regression.md",
     "Excalidraw",
     "Uni/TACN",
     "Uni/NLOOP",
