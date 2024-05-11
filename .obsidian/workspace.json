@@ -1,74 +1,52 @@
 {
   "main": {
-    "id": "9e52e1e00730a244",
+    "id": "9d1ad820093e0ee4",
     "type": "split",
     "children": [
       {
-        "id": "5b3f2830caba9197",
+        "id": "336911e9e38feaf2",
         "type": "tabs",
         "children": [
           {
-            "id": "75e9acec5cdfc31e",
+            "id": "3022fc976b6d1432",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Etsy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277d74d1c1c4ec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Thread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd56c20d97a0ad97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2d1ef4206a80bbb0",
+    "id": "5f1ffb298c49213e",
     "type": "split",
     "children": [
       {
-        "id": "38d67549e2ed7c83",
+        "id": "08f2e435027f1b31",
         "type": "tabs",
         "children": [
           {
-            "id": "773626b53bd3b9ce",
+            "id": "7f89407139505b7b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "1e2a82433dbb9abd",
+            "id": "1f661f65b761be9c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,38 +57,70 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "e8c1a5dd23b301f8",
+            "id": "e53f20c5fde5b156",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 300
   },
   "right": {
-    "id": "96960b049fd25483",
+    "id": "33f54aef7c53acd4",
     "type": "split",
     "children": [
       {
-        "id": "d3c247f86bab59ca",
+        "id": "ca0c3dfb848bda9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a50a2d3017eb9a",
+            "id": "e67d258e69604787",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5c7ab15f2b77fad1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bc32689c845ea702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0751e26b84b45e58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,48 +128,57 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "369464cdb0108d20",
+            "id": "c3c4581547f2854d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e073a611a91a203e",
+            "id": "9a459a74c49f091b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "d117fed47ca18329",
+            "id": "e03f0ce29d7039e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,56 +188,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd56c20d97a0ad97",
+  "active": "5c7ab15f2b77fad1",
   "lastOpenFiles": [
-    "NOTES/Computer Science/Concurrent_Programming/Thread.md",
-    "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
-    "Etsy.md",
+    "Uni/TTHCM/TTHCM.md",
+    "Uni/NLOOP/Operator Overloading.md",
+    "Uni/TTHCM/Chương II.md",
+    "Uni/TACN/New word.md",
+    "Uni/NLOOP/Untitled.md",
+    "Uni/NLOOP/Các nguyên lý cơ bản.md",
+    "Uni/NLOOP/Class and Object.md",
+    "Uni/NLHDH/Course Info.md",
+    "Uni/CTDL và Giải thuật/Untitled 1.md",
+    "Uni/TTHCM",
+    "Uni/Thiết bị mạng.md",
+    "Uni/PLDC.md",
+    "Uni/TACN",
+    "Uni/NLOOP",
+    "Uni/NLHDH",
+    "Uni/CTDL và Giải thuật",
+    "Uni",
+    "NOTES/OpenGL/Texture/3. Mipmap.md",
+    "NOTES/OpenGL/Texture/2. Texture Filtering.md",
+    "NOTES/OpenGL/Texture/1. Texture Wrapping.md",
+    "NOTES/OpenGL/Texture/0. Textures.md",
+    "NOTES/OpenGL/images/texture_wrapping.png",
+    "NOTES/OpenGL/images/texture_filtering.png",
+    "NOTES/OpenGL/images/texture_coordinates.png",
+    "NOTES/OpenGL/images/textures.png",
+    "NOTES/OpenGL/images/mipmap.png",
+    "NOTES/OpenGL/images/filter_nearest.png",
+    "NOTES/OpenGL/images/filter_bilinear.png",
     "NOTES/OpenGL/Coordinate/3. View space.md",
-    "NOTES/Computer Science/Untitled.md",
-    "NOTES/Computer Science/Concurrent_Programming",
-    "Pasted image 20240405151622.png",
-    "Pasted image 20240405151808.png",
-    "Pasted image 20240405153814.png",
-    "Shopee Ecommerce Guide/Shopee.md",
-    "Pasted image 20240405154118.png",
-    "Pasted image 20240405154413.png",
-    "Shopee Ecommerce Guide/UploadProduct.md",
-    "Shopee Ecommerce Guide",
     "NOTES/OpenGL/Coordinate/2. World space.md",
     "NOTES/OpenGL/Coordinate/1. Local space.md",
     "NOTES/OpenGL/Coordinate/0. Coordinate Systems.md",
-    "NOTES/OpenGL/Texture/3. Mipmap.md",
-    "NOTES/OpenGL/Coordinate",
-    "NOTES/OpenGL/Texture/2. Texture Filtering.md",
-    "NOTES/OpenGL/images/mipmap.png",
-    "3. Texture.md",
-    "NOTES/OpenGL/Texture/1. Texture Wrapping.md",
-    "NOTES/OpenGL/images/texture_filtering.png",
-    "Pasted image 20240202190710.png",
-    "Pasted image 20240202190725.png",
-    "Pasted image 20240202190633.png",
-    "NOTES/OpenGL/Texture/0. Textures.md",
-    "NOTES/OpenGL/Textures.md",
-    "NOTES/OpenGL/texture/1. Texture Wrapping",
-    "NOTES/OpenGL/texture/0.Textures.md",
-    "NOTES/OpenGL/texture/Textures.md",
-    "NOTES/OpenGL/Texture",
-    "NOTES/OpenGL/Buffers/texture",
-    "Excalidraw/vertex-attribute.md",
+    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
     "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
     "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
-    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
-    "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
-    "Excalidraw/VAO.md",
-    "Excalidraw/Drawing 2024-01-31 16.23.33.excalidraw.md",
-    "Excalidraw",
-    "Uni/TACN",
-    "Uni/NLOOP",
-    "Uni/CTDL và Giải thuật"
+    "NOTES/OpenGL/Uniform.md",
+    "NOTES/OpenGL/Texture",
+    "NOTES/OpenGL/OpenGL Shader.md",
+    "NOTES/OpenGL/Opengl Rendering pipeline.md",
+    "NOTES/OpenGL/images",
+    "NOTES/OpenGL/Coordinate",
+    "NOTES/OpenGL/Buffers"
   ]
 }

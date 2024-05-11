@@ -15,7 +15,7 @@ Tải xuống bộ dữ liệu: [STUDENT PERFORMANCE DATA SET](http://techwitht
 - Thường thi ta không cân nhắc nhiều thuộc tính như vậy khi dự đoán điểm của học sinh. Do vậy ta sẽ cắt giảm bớt bộ dữ liệu này và để lại những thuộc tính ta cần.
 
 ---
-# 1. Import Modules/Pakages
+# 1. Import Modules/Packages
 ---
 
 trước khi code ta nên **import** những gói, môđun sau:

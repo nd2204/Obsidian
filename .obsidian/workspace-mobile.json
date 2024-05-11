@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1007a6765397e8d3",
+        "id": "c85eb291b9896afb",
         "type": "tabs",
         "children": [
           {
-            "id": "c42b19e0a22e4084",
+            "id": "4c7fec20ba3ab803",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d173d0a69cdfd34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etsy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9af80ea031caa339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Airbnb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Uni/NLOOP/Untitled.md",
+            "file": "Etsy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Uni/NLOOP/Untitled.md",
+            "file": "Etsy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Uni/NLOOP/Untitled.md"
+            "file": "Etsy.md"
           }
         }
       }
@@ -140,11 +165,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c42b19e0a22e4084",
+  "active": "d173d0a69cdfd34c",
   "lastOpenFiles": [
-    "Uni/NLOOP/Các nguyên lý cơ bản.md",
+    "Airbnb.md",
+    "NOTES/Design Patterns/Flyweight.md",
     "Uni/NLOOP/Untitled.md",
+    "Etsy.md",
+    "Health/Tụt huyết áp.md",
     "Uni/NLOOP/Class and Object.md",
+    "Health",
+    "Uni/NLOOP/Operator Overloading.md",
+    "NOTES/Design Patterns",
+    "Uni/NLOOP/Các nguyên lý cơ bản.md",
     "Uni/CTDL và Giải thuật/Untitled 1.md",
     "NOTES/OpenGL/Coordinate/3. View space.md",
     "NOTES/OpenGL/Coordinate/0. Coordinate Systems.md",
@@ -175,18 +207,11 @@
     "NOTES/OpenGL/Texture",
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
     "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
-    "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
-    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
     "NOTES/OpenGL/Buffers",
     "/NOTES/OpenGL/images/textures.png",
     "/NOTES/OpenGL/images/texture_wrapping.png",
     "/NOTES/OpenGL/images/texture_filtering.png",
-    "/NOTES/OpenGL/Uniform.md",
-    "/NOTES/OpenGL/Texture/3. Mipmap.md",
-    "/NOTES/OpenGL/Texture/2. Texture Filtering.md",
     "/NOTES/OpenGL/images",
-    "/NOTES/OpenGL/Texture",
-    "/NOTES/OpenGL/Coordinate",
-    "/NOTES/OpenGL/Buffers"
+    "/NOTES/OpenGL/Texture"
   ]
 }
