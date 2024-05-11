@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75e9acec5cdfc31e",
+            "id": "205891feb6ab5ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etsy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277d74d1c1c4ec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Thread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd56c20d97a0ad97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Computer Science/Concurrent_Programming/Fiber.md"
+                "file": "NOTES/OpenGL/Coordinate/3. View space.md"
               }
             }
           }
@@ -172,23 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd56c20d97a0ad97",
+  "active": "205891feb6ab5ee4",
   "lastOpenFiles": [
-    "NOTES/Computer Science/Concurrent_Programming/Thread.md",
-    "NOTES/Computer Science/Concurrent_Programming/Fiber.md",
-    "Etsy.md",
-    "NOTES/OpenGL/Coordinate/3. View space.md",
-    "NOTES/Computer Science/Untitled.md",
-    "NOTES/Computer Science/Concurrent_Programming",
-    "Pasted image 20240405151622.png",
-    "Pasted image 20240405151808.png",
-    "Pasted image 20240405153814.png",
-    "Shopee Ecommerce Guide/Shopee.md",
-    "Pasted image 20240405154118.png",
-    "Pasted image 20240405154413.png",
-    "Shopee Ecommerce Guide/UploadProduct.md",
-    "Shopee Ecommerce Guide",
     "NOTES/OpenGL/Coordinate/2. World space.md",
+    "NOTES/OpenGL/Coordinate/3. View space.md",
     "NOTES/OpenGL/Coordinate/1. Local space.md",
     "NOTES/OpenGL/Coordinate/0. Coordinate Systems.md",
     "NOTES/OpenGL/Texture/3. Mipmap.md",
@@ -201,6 +163,9 @@
     "Pasted image 20240202190710.png",
     "Pasted image 20240202190725.png",
     "Pasted image 20240202190633.png",
+    "NOTES/OpenGL/images/filter_bilinear.png",
+    "NOTES/OpenGL/images/filter_nearest.png",
+    "NOTES/OpenGL/images/texture_wrapping.png",
     "NOTES/OpenGL/Texture/0. Textures.md",
     "NOTES/OpenGL/Textures.md",
     "NOTES/OpenGL/texture/1. Texture Wrapping",
@@ -216,9 +181,17 @@
     "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
     "Excalidraw/VAO.md",
     "Excalidraw/Drawing 2024-01-31 16.23.33.excalidraw.md",
+    "NOTES/AI-ML/Algorithm/Linear-Regression.md",
+    "NOTES/AI-ML/2-Linear-Regression-p2.md",
+    "NOTES/AI-ML/1-Linear-Regression-p1.md",
+    "Excalidraw/LinearRegression.md",
+    "Excalidraw/LinearRegression1.md",
+    "PENDING.md",
     "Excalidraw",
     "Uni/TACN",
     "Uni/NLOOP",
-    "Uni/CTDL và Giải thuật"
+    "Uni/CTDL và Giải thuật",
+    "NOTES/OpenGL/Buffers",
+    "NOTES/OpenGL"
   ]
 }

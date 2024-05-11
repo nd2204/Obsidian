@@ -1,11 +1,10 @@
 {
-  "accentColor": "#fabd2f",
+  "accentColor": "#bb88bb",
   "cssTheme": "Tokyo Night",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font",
   "translucency": false,
   "baseFontSize": 16,
-  "showViewHeader": true,
-  "theme": "obsidian"
+  "showViewHeader": true
 }
