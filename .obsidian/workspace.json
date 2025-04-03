@@ -11,14 +11,14 @@
             "id": "136af64b8c38c7ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-style-settings/data.json",
+                "bFile": ".obsidian/plugins/obsidian-style-settings/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Detailed Game Design Documentation Template"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -82,13 +82,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Detailed Game Design Documentation Template"
+              "title": "Outline"
             }
           },
           {
@@ -191,13 +190,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a11e3c57a8874f8",
+  "active": "136af64b8c38c7ee",
   "lastOpenFiles": [
+    "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
     "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",
     "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
-    "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
