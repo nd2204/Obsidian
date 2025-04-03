@@ -1,19 +1,11 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#bb88bb",
-  "cssTheme": "Tokyo Night",
-  "textFontFamily": "JetBrains Mono NL",
-  "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL Nerd Font",
-  "translucency": false,
-  "baseFontSize": 16,
-  "showViewHeader": true
-=======
-  "accentColor": "#b8bb26",
+  "accentColor": "",
   "cssTheme": "GitHub Theme",
   "textFontFamily": "RobotoMono Nerd Font",
   "monospaceFontFamily": "RobotoMono Nerd Font Mono",
-  "interfaceFontFamily": "Nunito",
-  "theme": "system"
->>>>>>> 52264e6 (vault backup: 2025-04-03 20:59:44)
+  "interfaceFontFamily": "RobotoMono Nerd Font Propo",
+  "translucency": false,
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

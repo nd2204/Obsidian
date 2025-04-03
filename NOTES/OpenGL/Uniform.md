@@ -6,7 +6,7 @@ tag: #shader #opengl #programming
 
 To declare a uniform in GLSL we simply add the uniform keyword to a shader with a type and a name. From that point on we can use the newly declared uniform in the shader. Let’s see if this time we can set the color of the triangle via a uniform:
 
-```cpp
+```c
 #version 330 core
 out vec4 FragColor;
 uniform vec4 ourColor; // we set this variable in the OpenGL code.
@@ -18,14 +18,14 @@ void main() {
 In order to use an uniform in opengl we first need to get its location in the gpu memory by using:
 
 ```cpp
-int glGetUniformLocation(<shader_program>, <variable_name>);
+int glGetUniformLocation(shader_program, variable_name);
 // return an integer
 ```
 
 and later use that return value to pass in to the set uniform function e.g:
 
 ```cpp
-void glUniform4f(<location>, <x>, <y>, <z>, <w>);
+void glUniform4f(location, x, y, z, w);
 // set uniform value
 ```
 

@@ -1,27 +1,15 @@
 {
-<<<<<<< HEAD
-  "collapse-filter": true,
-=======
   "collapse-filter": false,
->>>>>>> 52264e6 (vault backup: 2025-04-03 20:59:44)
-  "search": "",
+  "search": "opengl",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-<<<<<<< HEAD
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-=======
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.5,
->>>>>>> 52264e6 (vault backup: 2025-04-03 20:59:44)
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -29,11 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 1.296152133618433,
+  "scale": 1.000000000000003,
   "close": true
-=======
-  "scale": 0.3242333202184637,
-  "close": false
->>>>>>> 52264e6 (vault backup: 2025-04-03 20:59:44)
 }

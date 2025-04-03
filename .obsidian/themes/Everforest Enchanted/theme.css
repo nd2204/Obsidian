@@ -128,7 +128,6 @@
 
     --checkbox-color: var(--fg-blue);
 
-    --canvas-background: transparent;
     --canvas-dot-pattern: var(--color-base-50);
 
     /** Headers **/
@@ -539,12 +538,15 @@ pre[class^="language-"]::before {
 }
 .HyperMD-codeblock-begin-bg:not(:has(> .code-block-flair > *)):has(
         > .code-block-flair
-    )::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-color: var(--code-header);
-    border-radius: 4px 4px 0 0;
+    ) {
+    overflow: hidden;
+    &::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-color: var(--code-header);
+        /* border-radius: 4px 4px 0 0; */
+    }
 }
 
 /* Codeblock language labels */
@@ -703,6 +705,10 @@ pre.language-zsh::after {
 }
 
 /** Links **/
+
+:root a {
+    transition: opacity 0s;
+}
 
 /* Unresolved links */
 :root:root a.is-unresolved:hover,
@@ -922,7 +928,7 @@ div:has(h1) + div p:has(.tag) {
 }
 
 /* Embed last p */
-.markdown-embed-content .markdown-preview-section > div:last-child p {
+.markdown-embed-content .markdown-preview-section > div:last-child > p {
     margin-bottom: 0;
 }
 
@@ -1107,6 +1113,57 @@ settings:
     type: variable-number
     default: 5
     format: px
+-
+    id: vim-cursor-settings
+    title: Vim
+    type: heading
+    level: 2
+    collapsed: true
+-
+    id: vim-curor-animate
+    title: Animate vim cursor
+    description: Adds an animation when moving the vim cursor.
+    type: class-toggle
+-
+    id: vim-cursor-speed
+    title: Vim cursor speed
+    description: Speed at which the cursor will move
+    type: variable-select
+    default: var(--anim-duration-superfast)
+    options:
+        -
+            label: FTL
+            value: 30ms
+        -
+            label: Light speed
+            value: 45ms
+        -
+            label: Fast
+            value: 55ms
+        -
+            label: Normal
+            value: var(--anim-duration-superfast)
+        -
+            label: Slow
+            value: var(--anim-duration-fast)
+        -
+            label: Very slow
+            value: var(--anim-duration-moderate)
+        -
+            label: Snail speed
+            value: var(--anim-duration-slow)
+        -
+            label: Molases in January
+            value: 1000ms
+        -
+            label: 0 degrees kelvin
+            value: 5s
+        -
+            label: The seconds hand of the analogue clock in your least favorite middle school class
+            value: 20s
+        -
+            label: Zeno's paradox
+            value: 60s
 -
     id: element-settings
     title: Elements
@@ -1633,6 +1690,15 @@ body:not(.is-translucent).enable-menu-blur .modal-bg {
     opacity: 1 !important;
 }
 
+/* Vim cursor options */
+body.vim-curor-animate .cm-fat-cursor {
+    transition:
+        left var(--vim-cursor-speed, var(--anim-duration-superfast))
+            cubic-bezier(0.39, 0.575, 0.565, 1),
+        top var(--vim-cursor-speed, var(--anim-duration-superfast))
+            cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
 /** Element Settings **/
 
 /* Custom dot pattern size (style settings) */
@@ -1825,6 +1891,9 @@ body.rounded-tables :where(table:not(:has([rowspan]))) {
 }
 
 body.background-image-enabled {
+    /* This breaks canvas screenshots! */
+    --canvas-background: transparent;
+
     --background-transparent: rgba(
         var(--background-primary-rgb),
         var(--pane-opacity, 0.85)
@@ -1843,7 +1912,7 @@ body.background-image-enabled {
 .background-image-enabled .horizontal-main-container {
     background-color: var(--background-primary);
     background-image: var(--background-image-url);
-    background-position: var(--background-image-position);
+    background-position: var(--background-image-position, center);
     background-size: cover;
 }
 
@@ -1891,7 +1960,10 @@ body.background-image-enabled {
     .workspace-split:not(.mod-root, .mod-horizontal)
     .workspace-tab-header-container,
 .background-image-enabled
-    .workspace-split:not(.mod-left-split, .mod-right-split) {
+    .workspace-split:not(.mod-left-split, .mod-right-split),
+.background-image-enabled
+    .workspace-split.mod-left-split
+    .workspace-sidedock-vault-profile {
     background-color: transparent !important;
 }
 /* Fix double side headers */
@@ -1927,6 +1999,17 @@ body.background-image-enabled {
 }
 :root .background-image-pane-view .view-header {
     background-color: var(--background-partially-transparent) !important;
+}
+/* New tab page */
+:root .background-image-pane-view .view-content:has(> .empty-state) {
+    width: fit-content;
+    height: unset;
+    margin: auto;
+    padding: clamp(2rem, 5vw, 4rem);
+    border-radius: 1rem;
+}
+.background-image-enabled .empty-state {
+    position: static;
 }
 
 /** Visual Parity **/
@@ -2094,6 +2177,7 @@ img {
 }
 
 /* Makes multiple images on the same line appear in a flex grid */
+/* Editing mode part */
 .cm-line:not(.cm-active):has(
         .image-embed ~ .image-embed,
         img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)
@@ -2102,25 +2186,15 @@ p:has(.image-embed ~ .image-embed, img ~ img):not(:has([alt="inline"])) {
     display: flex;
     gap: 0.5rem;
     align-items: start;
-}
-.cm-line:not(.cm-active):has(
-        .image-embed ~ .image-embed,
-        img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)
-    ):not(:has([alt="inline"]))
-    > .image-embed,
-p:has(.image-embed ~ .image-embed, img ~ img):not(:has([alt="inline"]))
-    > .image-embed {
-    flex: 1 1 0;
-    display: flex;
-    justify-content: center;
-}
-.cm-line:not(.cm-active):has(
-        .image-embed ~ .image-embed,
-        img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)
-    )
-    > .cm-widgetBuffer,
-.cm-widgetBuffer + span[contenteditable="false"]:not([class]) {
-    display: none !important;
+
+    & > .image-embed {
+        flex: 1 1 0;
+        display: flex;
+        justify-content: center;
+    }
+    & > .cm-widgetBuffer {
+        display: none !important;
+    }
 }
 /* Makes a highlighted line shrink the image */
 :root:root
@@ -2334,46 +2408,46 @@ body:not(.no-image-alttext-caption)
 }
 
 /* Custom dashboard */
-.dashboard {
-    padding: 25px 20px !important;
-}
-.dashboard.is-readable-line-width:not(.full-width) .markdown-preview-section {
-    width: 100% !important;
-}
 /* Title at top of the document */
-.dashboard .markdown-preview-section .title {
-    top: 60px;
-    left: 50%;
-    transform: translateX(-50%);
-    position: absolute;
-    font-size: 26pt !important;
-    font-weight: bolder;
-    letter-spacing: 8px;
-}
-.dashboard h1 {
-    border-bottom-style: dotted !important;
-    border-width: 1px !important;
-    padding-bottom: 3px !important;
-}
-.dashboard div > ul:not(.dataview) {
-    list-style: none;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 0.5rem;
-    padding-left: 0;
-}
-.dashboard div > ul:not(.dataview) > li {
-    outline: 1px solid #fff2;
-    padding: 0.5rem 0.25rem;
-}
-.dashboard div > ul > li > .list-bullet {
-    display: none;
-}
-.dashboard div > ul > li > .list-collapse-indicator {
-    display: none;
-}
-.dashboard div > ul > li > ul:before {
-    border-right: none !important;
+.dashboard {
+    & .markdown-preview-section .title {
+        top: 60px;
+        left: 50%;
+        transform: translateX(-50%);
+        position: absolute;
+        font-size: 26pt !important;
+        font-weight: bolder;
+        letter-spacing: 8px;
+    }
+
+    & h1 {
+        border-bottom-style: dotted !important;
+        border-width: 1px !important;
+        padding-bottom: 3px !important;
+    }
+    & div > ul:not(.dataview) {
+        list-style: none;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 0.5rem;
+        padding-left: 0;
+        & > li {
+            outline: 1px solid var(--bg5);
+            padding: 0.5rem 0.25rem;
+        }
+    }
+
+    & div > ul > li {
+        & > .list-bullet {
+            display: none;
+        }
+        & .list-collapse-indicator {
+            display: none;
+        }
+        & ul:before {
+            border-right: none !important;
+        }
+    }
 }
 
 /** Misc. **/

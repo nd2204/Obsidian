@@ -18,8 +18,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.9"
             }
+          },
+          {
+            "id": "eb621657ff1b8899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI4G/N1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,19 +100,8 @@
       {
         "id": "ca0c3dfb848bda9d",
         "type": "tabs",
+        "dimension": 69.57364341085271,
         "children": [
-          {
-            "id": "e67d258e69604787",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
           {
             "id": "5c7ab15f2b77fad1",
             "type": "leaf",
@@ -108,12 +112,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bc32689c845ea702",
         "type": "tabs",
+        "dimension": 30.426356589147286,
         "children": [
           {
             "id": "0751e26b84b45e58",
@@ -165,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AI4G/N1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of N1"
             }
           }
         ],
@@ -178,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c7ab15f2b77fad1",
+  "active": "eb621657ff1b8899",
   "lastOpenFiles": [
+    "Health/Tụt huyết áp.md",
+    "NOTES/Workspace/Moving-WSL-To-Another-Drive.md",
+    "NOTES/OpenGL/Uniform.md",
+    "NOTES/OpenGL/OpenGL Shader.md",
+    "NOTES/OpenGL/1.4. Vertex Array Object (VAO).md",
+    "NOTES/OpenGL/Opengl Rendering pipeline.md",
+    "NOTES/OpenGL/1.3. Vertex Attribute (VA).md",
+    "NOTES/OpenGL/1.2. Vertex Buffer Object (VBO).md",
+    "NOTES/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "Uni/TTHCM/TTHCM.md",
     "Uni/NLOOP/Operator Overloading.md",
     "Uni/TTHCM/Chương II.md",
@@ -224,16 +238,7 @@
     "NOTES/OpenGL/images/filter_bilinear.png",
     "NOTES/OpenGL/Coordinate/3. View space.md",
     "NOTES/OpenGL/Coordinate/2. World space.md",
-    "NOTES/OpenGL/Coordinate/1. Local space.md",
-    "NOTES/OpenGL/Coordinate/0. Coordinate Systems.md",
-    "NOTES/OpenGL/Buffers/3. Vertex Array Object (VAO).md",
-    "NOTES/OpenGL/Buffers/2. Vertex Attribute (VA).md",
-    "NOTES/OpenGL/Buffers/1. Vertex Buffer Object (VBO).md",
-    "NOTES/OpenGL/Buffers/0. OpenGL Buffer - Overview.md",
-    "NOTES/OpenGL/Uniform.md",
     "NOTES/OpenGL/Texture",
-    "NOTES/OpenGL/OpenGL Shader.md",
-    "NOTES/OpenGL/Opengl Rendering pipeline.md",
     "NOTES/OpenGL/images",
     "NOTES/OpenGL/Coordinate",
     "NOTES/OpenGL/Buffers"

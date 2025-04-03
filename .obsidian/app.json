@@ -1,8 +1,8 @@
 {
+  "spellcheck": false,
+  "promptDelete": true,
   "vimMode": true,
   "showUnsupportedFiles": true,
-  "spellcheck": false,
-<<<<<<< HEAD
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:insert-embed",
@@ -26,13 +26,8 @@
     "editor:configure-toolbar",
     "editor:insert-codeblock"
   ],
-  "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "newLinkFormat": "shortest",
   "newFileLocation": "current"
-=======
-  "promptDelete": false,
-  "vimMode": true
->>>>>>> 52264e6 (vault backup: 2025-04-03 20:59:44)
 }
