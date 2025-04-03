@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "opengl",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.000000000000003,
+  "scale": 0.5694148928667616,
   "close": true
 }

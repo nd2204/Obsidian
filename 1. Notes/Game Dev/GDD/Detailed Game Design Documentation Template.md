@@ -1,4 +1,10 @@
-tag: #GameDev #GDD
+---
+tags:
+  - GameDev
+  - GDD
+next: "[[Game Design Concept and Pitch Template]]"
+previous: N/a
+---
 
 ## Template
 
