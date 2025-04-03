@@ -1,11 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "AnuPpuccin",
   "textFontFamily": "RobotoMono Nerd Font",
   "monospaceFontFamily": "RobotoMono Nerd Font Mono",
   "interfaceFontFamily": "RobotoMono Nerd Font Propo",
   "translucency": false,
   "baseFontSize": 14,
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "system",
+  "nativeMenus": false
 }

@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "336911e9e38feaf2",
+        "id": "2cd523e093ab4a09",
         "type": "tabs",
         "children": [
           {
-            "id": "3022fc976b6d1432",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "eb621657ff1b8899",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5c090af84947293f",
+            "id": "1e1ae6e0c9535fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
-                "mode": "preview",
+                "file": "2. Fleeting Note/App Ideas.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Design Concept and Pitch Template"
+              "title": "App Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,19 +34,6 @@
         "id": "08f2e435027f1b31",
         "type": "tabs",
         "children": [
-          {
-            "id": "7f89407139505b7b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "1f661f65b761be9c",
             "type": "leaf",
@@ -97,8 +61,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,30 +77,47 @@
         "dimension": 60.94961240310077,
         "children": [
           {
-            "id": "5c7ab15f2b77fad1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "e03f0ce29d7039e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "2. Fleeting Note/App Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of App Ideas"
+            }
+          },
+          {
+            "id": "7f89407139505b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a11e3c57a8874f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bc32689c845ea702",
@@ -205,15 +185,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c7ab15f2b77fad1",
+  "active": "1e1ae6e0c9535fbb",
   "lastOpenFiles": [
+    "2. Fleeting Note/App Ideas.md",
+    "1. Notes/Game Dev/GDD/Untitled Kanban.md",
+    "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
-    "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
@@ -222,7 +206,6 @@
     "3. Excalidraw/Pointer0.md",
     "3. Excalidraw/vertex-attribute.md",
     "3. Excalidraw/VAO.md",
-    "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
     "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
     "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
@@ -238,7 +221,6 @@
     "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
     "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "1. Notes/Uni/TTHCM/TTHCM.md",
-    "1. Notes/Uni/NLOOP/Operator Overloading.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
