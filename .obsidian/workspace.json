@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd523e093ab4a09",
+        "id": "9cb6bd4560e9cae1",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1ae6e0c9535fbb",
+            "id": "136af64b8c38c7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Fleeting Note/App Ideas.md",
+                "file": "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Ideas"
+              "title": "Detailed Game Design Documentation Template"
             }
           }
         ]
@@ -82,13 +82,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Fleeting Note/App Ideas.md",
+                "file": "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Ideas"
+              "title": "Outline of Detailed Game Design Documentation Template"
             }
           },
           {
@@ -191,7 +191,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e1ae6e0c9535fbb",
+  "active": "6a11e3c57a8874f8",
   "lastOpenFiles": [
     "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",

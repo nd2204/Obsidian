@@ -9,5 +9,9 @@
   "showViewHeader": true,
   "baseFontSizeAction": true,
   "theme": "system",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "minimal-cards"
+  ]
 }
