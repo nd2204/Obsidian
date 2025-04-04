@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "9d1ad820093e0ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3488c3baaddaf744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d47cd520349c20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1. OpenGL Buffer - Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f1ffb298c49213e",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f2e435027f1b31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f661f65b761be9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e53f20c5fde5b156",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b84e06f9eb732d72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "33f54aef7c53acd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0c3dfb848bda9d",
+        "type": "tabs",
+        "dimension": 51.067961165048544,
+        "children": [
+          {
+            "id": "7f89407139505b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc32689c845ea702",
+        "type": "tabs",
+        "dimension": 48.932038834951456,
+        "children": [
+          {
+            "id": "0751e26b84b45e58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c3c4581547f2854d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a459a74c49f091b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e03f0ce29d7039e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.3. Vertex Attribute (VA)"
+            }
+          },
+          {
+            "id": "6a11e3c57a8874f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "5d47cd520349c20e",
+  "lastOpenFiles": [
+    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
+    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "4. Templates/Note.md",
+    "1. Notes/3D-Modeling/Untitled.md",
+    "1. Notes/OpenGL/Uniform.md",
+    "4. Templates/Resources.md",
+    "1. Notes/Wellbeing/Nutrient Calculation.md",
+    "1. Notes/Wellbeing/Calories.md",
+    "1. Notes/Workspace/Moving-WSL-To-Another-Drive.md",
+    "3. Excalidraw/LinearRegression.md",
+    "4. Templates",
+    "1. Notes/3D-Modeling",
+    "1. Notes/Uni/PLDC.md",
+    "1. Notes/Untitled.canvas",
+    "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
+    "2. Fleeting Note/App Ideas.md",
+    "1. Notes/Game Dev/GDD/Untitled Kanban.md",
+    "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
+    "1. Notes/Algorithm/What is Algorithms.md",
+    "1. Notes/Game Dev/GDD",
+    "3. Excalidraw/LinearRegression1.md",
+    "3. Excalidraw/Pointer0.md",
+    "3. Excalidraw/vertex-attribute.md",
+    "3. Excalidraw/VAO.md",
+    "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
+    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
+    "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
+    "1. Notes/Game Dev/Physic/Physics for game dev.md",
+    "1. Notes/Build System/Make.md",
+    "1. Notes/Uni/TTHCM",
+    "1. Notes/Uni/TACN",
+    "1. Notes/Uni/NLOOP",
+    "1. Notes/Uni/NLHDH",
+    "1. Notes/Uni/CTDL và Giải thuật",
+    "1. Notes/Uni",
+    "1. Notes/OpenGL/images/texture_wrapping.png",
+    "1. Notes/OpenGL/images/texture_filtering.png",
+    "1. Notes/OpenGL/images/texture_coordinates.png",
+    "1. Notes/OpenGL/images/textures.png",
+    "1. Notes/OpenGL/images/mipmap.png",
+    "1. Notes/OpenGL/images/filter_nearest.png",
+    "1. Notes/OpenGL/images/filter_bilinear.png",
+    "1. Notes/OpenGL/Texture"
+  ]
+}
