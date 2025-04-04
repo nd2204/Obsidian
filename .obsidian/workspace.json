@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c3bd59b9d12e12a",
+        "id": "12adb95c80f95ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "083d37512c8a28af",
+            "id": "cb40a71e17db9bbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -198,8 +202,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6a11e3c57a8874f8",
+  "active": "cb40a71e17db9bbe",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2. Fleeting Note/Untitled Kanban.md",
     "2. Fleeting Note/Dick @{2025-04-10}'.md",
     "1. Notes/Uni/TACN/New word.md",
@@ -221,7 +226,6 @@
     "3. Books",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "2. Fleeting Note/App Ideas.md",
-    "conflict-files-obsidian-git.md",
     "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
     "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
