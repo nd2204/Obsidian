@@ -11,14 +11,14 @@
             "id": "5d47cd520349c20e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.1. OpenGL Buffer - Overview"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -205,10 +205,13 @@
   },
   "active": "5d47cd520349c20e",
   "lastOpenFiles": [
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "conflict-files-obsidian-git.md",
+    "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
+    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
     "1. Notes/OpenGL/OpenGL Shader.md",
     "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "4. Templates/Note.md",
     "1. Notes/3D-Modeling/Untitled.md",
     "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
@@ -232,9 +235,6 @@
     "3. Excalidraw/Pointer0.md",
     "3. Excalidraw/vertex-attribute.md",
     "3. Excalidraw/VAO.md",
-    "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
-    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
-    "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
