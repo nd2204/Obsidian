@@ -176,7 +176,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "083d37512c8a28af",
+  "active": "6a11e3c57a8874f8",
   "lastOpenFiles": [
     "2. Fleeting Note/Untitled Kanban.md",
     "2. Fleeting Note/Dick @{2025-04-10}'.md",
