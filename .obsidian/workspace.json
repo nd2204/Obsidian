@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb6bd4560e9cae1",
+        "id": "88516af113f55ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "136af64b8c38c7ee",
+            "id": "b3c427d32564ec40",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian-style-settings/data.json",
-                "bFile": ".obsidian/plugins/obsidian-style-settings/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -65,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "33f54aef7c53acd4",
@@ -185,18 +181,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "136af64b8c38c7ee",
+  "active": "b3c427d32564ec40",
   "lastOpenFiles": [
+    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "1. Notes/Design Patterns/Flyweight.md",
+    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
     "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",
     "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
-    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
@@ -206,7 +204,6 @@
     "3. Excalidraw/vertex-attribute.md",
     "3. Excalidraw/VAO.md",
     "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
-    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
     "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
     "1. Notes/Game Dev/Physic/Physics for game dev.md",
     "1. Notes/Build System/Make.md",
@@ -218,8 +215,6 @@
     "1. Notes/OpenGL/1.4. Vertex Array Object (VAO).md",
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
     "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
-    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "1. Notes/Uni/TTHCM/TTHCM.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
