@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12adb95c80f95ddc",
+        "id": "591183ec5372f095",
         "type": "tabs",
         "children": [
           {
-            "id": "cb40a71e17db9bbe",
+            "id": "b46b0262dae66e56",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -202,8 +198,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cb40a71e17db9bbe",
+  "active": "7f89407139505b7b",
   "lastOpenFiles": [
+    "1. Notes/Web Dev",
     "conflict-files-obsidian-git.md",
     "2. Fleeting Note/Untitled Kanban.md",
     "2. Fleeting Note/Dick @{2025-04-10}'.md",
@@ -230,7 +227,6 @@
     "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
     "1. Notes/OpenGL/OpenGL Shader.md",
-    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "98. Templates",
     "1. Notes/3D-Modeling",
     "1. Notes/Untitled.canvas",
