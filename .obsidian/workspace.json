@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3488c3baaddaf744",
+        "id": "99e4e9e515984b95",
         "type": "tabs",
         "children": [
           {
-            "id": "5d47cd520349c20e",
+            "id": "390b1ce82bf3a854",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/bookmarks.json",
+                "bFile": ".obsidian/bookmarks.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.3. Vertex Attribute (VA)"
+              "icon": "diff",
+              "title": "Diff: bookmarks.json"
             }
           }
         ]
@@ -31,26 +31,9 @@
     "type": "split",
     "children": [
       {
-        "id": "08f2e435027f1b31",
+        "id": "9853b3002610e839",
         "type": "tabs",
         "children": [
-          {
-            "id": "1f661f65b761be9c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "e53f20c5fde5b156",
             "type": "leaf",
@@ -65,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -75,8 +58,22 @@
       {
         "id": "ca0c3dfb848bda9d",
         "type": "tabs",
-        "dimension": 51.067961165048544,
+        "dimension": 62.40157480314961,
         "children": [
+          {
+            "id": "e03f0ce29d7039e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
           {
             "id": "7f89407139505b7b",
             "type": "leaf",
@@ -101,24 +98,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "b84e06f9eb732d72",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bc32689c845ea702",
         "type": "tabs",
-        "dimension": 48.932038834951456,
+        "dimension": 37.59842519685039,
         "children": [
           {
             "id": "0751e26b84b45e58",
@@ -167,18 +154,20 @@
             }
           },
           {
-            "id": "e03f0ce29d7039e4",
+            "id": "1f661f65b761be9c",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "search",
               "state": {
-                "file": "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "lucide-list",
-              "title": "Outline of 1.3. Vertex Attribute (VA)"
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ],
@@ -190,51 +179,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "6a11e3c57a8874f8",
   "lastOpenFiles": [
-    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
-    "4. Templates/Note.md",
-    "1. Notes/3D-Modeling/Untitled.md",
-    "1. Notes/OpenGL/Uniform.md",
     "4. Templates/Resources.md",
-    "1. Notes/Wellbeing/Nutrient Calculation.md",
-    "1. Notes/Wellbeing/Calories.md",
-    "1. Notes/Workspace/Moving-WSL-To-Another-Drive.md",
-    "3. Excalidraw/LinearRegression.md",
+    "4. Templates/Note.md",
     "4. Templates",
+    "1. Notes/3D-Modeling/Untitled.md",
     "1. Notes/3D-Modeling",
-    "1. Notes/Uni/PLDC.md",
-    "1. Notes/Untitled.canvas",
+    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "1. Notes/Design Patterns/Flyweight.md",
+    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
     "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",
     "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
+    "1. Notes/Untitled.canvas",
     "1. Notes/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
+    "3. Excalidraw/LinearRegression.md",
     "3. Excalidraw/LinearRegression1.md",
     "3. Excalidraw/Pointer0.md",
     "3. Excalidraw/vertex-attribute.md",
     "3. Excalidraw/VAO.md",
     "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
-    "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
     "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
     "1. Notes/Game Dev/Physic/Physics for game dev.md",
     "1. Notes/Build System/Make.md",
     "1. Notes/AI4G/N1.md",
+    "Health/Tụt huyết áp.md",
+    "1. Notes/Workspace/Moving-WSL-To-Another-Drive.md",
+    "1. Notes/OpenGL/Uniform.md",
+    "1. Notes/OpenGL/OpenGL Shader.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
