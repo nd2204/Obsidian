@@ -12,6 +12,7 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "extended-colorschemes",
-    "minimal-cards"
+    "minimal-cards",
+    "its-frontmatter"
   ]
 }

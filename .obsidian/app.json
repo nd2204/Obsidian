@@ -29,5 +29,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "newLinkFormat": "shortest",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "defaultViewMode": "source"
 }

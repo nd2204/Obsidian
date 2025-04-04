@@ -1,5 +1,13 @@
-tag: #shader #opengl #programming
-
+---
+id: Uniform
+created_date: 2025-04-04
+updated_date: 2025-04-04
+type: note
+tags:
+  - shader
+  - opengl
+  - Programming
+---
 ---
 > [!important] note
 > Uniforms are another way to pass data from our application on the CPU to the shaders on the GPU. Uniforms are however slightly different compared to vertex attributes. First of all, uniforms are global. Global, meaning that a uniform variable is unique per shader program object, and can be accessed from any shader at any stage in the shader program. Second, whatever you set the uniform value to, uniforms will keep their values until they’re either reset or updated.
@@ -18,8 +26,8 @@ void main() {
 In order to use an uniform in opengl we first need to get its location in the gpu memory by using:
 
 ```cpp
-int glGetUniformLocation(shader_program, variable_name);
 // return an integer
+int glGetUniformLocation(shader_program, variable_name);
 ```
 
 and later use that return value to pass in to the set uniform function e.g:
@@ -29,3 +37,6 @@ void glUniform4f(location, x, y, z, w);
 // set uniform value
 ```
 
+---
+## 🔗 REFERENCES
+- [learnOpengl](https://learnopengl.com)
