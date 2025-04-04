@@ -1,5 +1,5 @@
 ---
-id: Untitled
+id: Blender shortcuts for actions
 created_date: 2025/04/04
 updated_date: 2025/04/04
 type: note
@@ -12,6 +12,7 @@ tags:
 | mode | Keymap | Actions  | Action description |
 | ---- | ------ | -------- | ------------------ |
 | Edit | y      | separate |                    |
+|      |        |          |                    |
 |      |        |          |                    |
 
 

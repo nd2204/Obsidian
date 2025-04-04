@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
+                "file": "2. Fleeting Note/LTHT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blender shortcuts for actions"
+              "title": "LTHT"
             }
           }
         ]
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Fleeting Note/LTHT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for LTHT"
             }
           },
           {
@@ -132,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Fleeting Note/LTHT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from LTHT"
             }
           },
           {
@@ -181,8 +183,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +206,19 @@
   },
   "active": "c0b67dd8f9169c56",
   "lastOpenFiles": [
+    "3. Books/Untitled.md",
+    "1. Notes/Uni/NLHDH/Course Info.md",
+    "1. Notes/Uni/NLOOP/Untitled.md",
+    "1. Notes/Uni/NLOOP/Operator Overloading.md",
+    "1. Notes/Uni/NLOOP/Class and Object.md",
+    "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
+    "1. Notes/Uni/Thiết bị mạng.md",
+    "1. Notes/Uni/PLDC.md",
     "98. Templates/Note.md",
-    "98. Templates/Resources.md",
-    "99. Excalidraw/vertex-attribute.md",
     "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
+    "99. Excalidraw/vertex-attribute.md",
+    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
+    "98. Templates/Resources.md",
     "2. Fleeting Note/LTHT.md",
     "3. Books",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
@@ -219,23 +229,14 @@
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
     "1. Notes/OpenGL/OpenGL Shader.md",
     "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
     "1. Notes/OpenGL/Uniform.md",
     "1. Notes/Wellbeing/Nutrient Calculation.md",
     "1. Notes/Wellbeing/Calories.md",
     "1. Notes/Workspace/Moving-WSL-To-Another-Drive.md",
-    "99. Excalidraw/LinearRegression.md",
     "98. Templates",
     "1. Notes/3D-Modeling",
-    "1. Notes/Uni/PLDC.md",
     "1. Notes/Untitled.canvas",
-    "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
-    "1. Notes/Game Dev/GDD/Untitled Kanban.md",
-    "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
-    "1. Notes/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
-    "99. Excalidraw/LinearRegression1.md",
-    "99. Excalidraw/Pointer0.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
