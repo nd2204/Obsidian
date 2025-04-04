@@ -11,10 +11,14 @@
             "id": "b8d1261688d531fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linear-Regression"
             }
           }
         ]
@@ -199,11 +203,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b84e06f9eb732d72",
+  "active": "7f89407139505b7b",
   "lastOpenFiles": [
     "1. Notes/AI-ML/1-Linear-Regression-p1.md",
     "1. Notes/AI-ML/Data Set/Student Performance Data Set.md",
-    "1. Notes/AI-ML/Algorithm/Linear-Regression.md",
+    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
     "1. Notes/AI-ML/0a-Study-Plan.md",
     "1. Notes/AI-ML/0b-Setting Up.md",
     "1. Notes/AI-ML/3-Saving-Model-and-Plotting-Data.md",
@@ -227,7 +231,7 @@
     "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",
     "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
-    "1. Notes/Algorithm/What is Algorithms.md",
+    "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
     "3. Excalidraw/LinearRegression1.md",
     "3. Excalidraw/Pointer0.md",
