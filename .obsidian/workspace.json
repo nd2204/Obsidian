@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,11 +205,13 @@
   },
   "active": "5d47cd520349c20e",
   "lastOpenFiles": [
-    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
+    "1. Notes/OpenGL/Opengl Rendering pipeline.md",
+    "1. Notes/OpenGL/OpenGL Shader.md",
     "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "4. Templates/Note.md",
     "1. Notes/3D-Modeling/Untitled.md",
+    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
     "1. Notes/OpenGL/Uniform.md",
     "4. Templates/Resources.md",
     "1. Notes/Wellbeing/Nutrient Calculation.md",
@@ -233,8 +235,6 @@
     "1. Notes/Game Dev/Visual Scripting Unity/2D Plaformer.md",
     "1. Notes/Game Dev/Visual Scripting Unity/SuperUnit.md",
     "1. Notes/Game Dev/SDL/SDL-Study-Plan.md",
-    "1. Notes/Game Dev/Physic/Physics for game dev.md",
-    "1. Notes/Build System/Make.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
