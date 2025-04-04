@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0780de244f857114",
+        "id": "5c3bd59b9d12e12a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1b5b7938f0e398",
+            "id": "083d37512c8a28af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Notes/Uni/TACN/New word.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New word"
+              "title": "New tab"
             }
           }
         ]
@@ -113,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Notes/Uni/TACN/New word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New word"
+              "title": "Backlinks"
             }
           },
           {
@@ -132,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Notes/Uni/TACN/New word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New word"
+              "title": "Outgoing links"
             }
           },
           {
@@ -203,13 +197,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eb1b5b7938f0e398",
+  "active": "083d37512c8a28af",
   "lastOpenFiles": [
+    "2. Fleeting Note/Untitled Kanban.md",
+    "2. Fleeting Note/Dick @{2025-04-10}'.md",
     "1. Notes/Uni/TACN/New word.md",
+    "3. Books/Untitled.md",
     "1. Notes/Uni/NLHDH/Course Info.md",
     "1. Notes/OpenGL/Texture/1. Texture Wrapping.md",
     "2. Fleeting Note/LTHT.md",
-    "3. Books/Untitled.md",
     "1. Notes/Uni/NLOOP/Untitled.md",
     "1. Notes/Uni/NLOOP/Operator Overloading.md",
     "1. Notes/Uni/NLOOP/Class and Object.md",
@@ -230,8 +226,6 @@
     "1. Notes/OpenGL/Opengl Rendering pipeline.md",
     "1. Notes/OpenGL/OpenGL Shader.md",
     "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "1. Notes/OpenGL/Uniform.md",
-    "1. Notes/Wellbeing/Nutrient Calculation.md",
     "98. Templates",
     "1. Notes/3D-Modeling",
     "1. Notes/Untitled.canvas",
