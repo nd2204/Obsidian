@@ -8,7 +8,7 @@
   "baseFontSize": 14,
   "showViewHeader": true,
   "baseFontSizeAction": true,
-  "theme": "system",
+  "theme": "obsidian",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "extended-colorschemes",

@@ -29,6 +29,7 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "newLinkFormat": "shortest",
-  "newFileLocation": "current",
-  "defaultViewMode": "source"
+  "newFileLocation": "folder",
+  "defaultViewMode": "source",
+  "newFileFolderPath": "2. Fleeting Note"
 }

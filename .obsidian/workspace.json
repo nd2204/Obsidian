@@ -14,14 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Linear-Regression"
             }
+          },
+          {
+            "id": "b6db1ebaf9a0e3ef",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
+                "bFile": "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Các nguyên lý cơ bản"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +219,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b84e06f9eb732d72",
+  "active": "b6db1ebaf9a0e3ef",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
+    "99. Excalidraw/vertex-attribute.md",
+    "99. Excalidraw/VAO.md",
+    "99. Excalidraw/LinearRegression1.md",
+    "99. Excalidraw/Pointer0.md",
+    "99. Excalidraw/LinearRegression.md",
+    "99. Excalidraw",
+    "98. Templates/Resources.md",
+    "98. Templates/Note.md",
+    "98. Templates",
+    "2. Fleeting Note/Untitled Kanban.md",
+    "2. Fleeting Note/LTHT.md",
+    "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
     "1. Notes/AI-ML/1-Linear-Regression-p1.md",
     "1. Notes/AI-ML/Data Set/Student Performance Data Set.md",
-    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
     "1. Notes/AI-ML/0a-Study-Plan.md",
     "1. Notes/AI-ML/0b-Setting Up.md",
     "1. Notes/AI-ML/3-Saving-Model-and-Plotting-Data.md",
@@ -220,34 +249,21 @@
     "1. Notes/OpenGL/Uniform.md",
     "4. Templates/Resources.md",
     "1. Notes/Wellbeing/Nutrient Calculation.md",
-    "1. Notes/Wellbeing/Calories.md",
-    "1. Notes/Workspace/Moving-WSL-To-Another-Drive.md",
-    "3. Excalidraw/LinearRegression.md",
     "4. Templates",
     "1. Notes/3D-Modeling",
-    "1. Notes/Uni/PLDC.md",
     "1. Notes/Untitled.canvas",
-    "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
-    "2. Fleeting Note/App Ideas.md",
-    "1. Notes/Game Dev/GDD/Untitled Kanban.md",
-    "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
-    "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
     "1. Notes/Game Dev/GDD",
-    "3. Excalidraw/LinearRegression1.md",
-    "3. Excalidraw/Pointer0.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
     "1. Notes/Uni/NLHDH",
     "1. Notes/Uni/CTDL và Giải thuật",
-    "1. Notes/Uni",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
     "1. Notes/OpenGL/images/texture_coordinates.png",
     "1. Notes/OpenGL/images/textures.png",
     "1. Notes/OpenGL/images/mipmap.png",
     "1. Notes/OpenGL/images/filter_nearest.png",
-    "1. Notes/OpenGL/images/filter_bilinear.png",
-    "1. Notes/OpenGL/Texture"
+    "1. Notes/OpenGL/images/filter_bilinear.png"
   ]
 }
