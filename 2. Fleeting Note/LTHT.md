@@ -13,7 +13,7 @@
 	2. Một máy chủ và máy khách viết hoa, minh họa cho giao tiếp hai chiều và các luồng phía máy chủ để xử lý hiệu quả hơn nhiều kết nối cùng lúc.  
 	3. Một trò chơi ô ăn quan hai người chơi, minh họa cho một máy chủ cần theo dõi trạng thái của trò chơi và thông báo cho từng máy khách về trò chơi đó để mỗi máy khách có thể cập nhật màn hình của riêng mình.  
 	4. Một ứng dụng trò chuyện nhiều người dùng, trong đó máy chủ phải phát tin nhắn đến tất cả các máy khách của mình.  
-3. Bài tập ôn Cryptography:  
+3.    Bài tập ôn Cryptography:  
 	1. Kết hợp Socket để mã hóa và giải mã thông điệp được truyền qua ứng dụng chat với cả 3 nhóm: Cổ điển; Đối xứng; Bất đối xứng  
 	2. Kết hợp Stream để mã hóa và giải mã các thông điệp được ghi trong file với cả 3 nhóm: Cổ điển; Đối xứng; Bất đối xứng  
-	3. Kết hợp Stream để mã hóa và giải mã cả file (mã hóa ngoài) với cả 3 nhóm: Cổ điển; Đối xứng; Bất đối xứng
+	3.    Kết hợp Stream để mã hóa và giải mã cả file (mã hóa ngoài) với cả 3 nhóm: Cổ điển; Đối xứng; Bất đối xứng
