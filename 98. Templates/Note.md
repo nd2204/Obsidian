@@ -7,9 +7,9 @@ tags:
 ---
 ---
 
-| Next     | [[Next]]     |
-| -------- | ------------ |
-| Previous | [[Previous]] |
+| Next     | N/a |
+| -------- | --- |
+| Previous | N/a |
 
 ---
 > [!INFORMATION] Overview
