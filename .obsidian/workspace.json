@@ -11,14 +11,14 @@
             "id": "5d47cd520349c20e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "2. Fleeting Note/LTHT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "LTHT"
             }
           }
         ]
@@ -206,6 +206,8 @@
   "active": "5d47cd520349c20e",
   "lastOpenFiles": [
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "2. Fleeting Note/App Ideas.md",
+    "2. Fleeting Note/LTHT.md",
     "conflict-files-obsidian-git.md",
     "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
     "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
@@ -226,7 +228,6 @@
     "1. Notes/Uni/PLDC.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/Game Dev/GDD/Detailed Game Design Documentation Template.md",
-    "2. Fleeting Note/App Ideas.md",
     "1. Notes/Game Dev/GDD/Untitled Kanban.md",
     "1. Notes/Game Dev/GDD/Game Design Concept and Pitch Template.md",
     "1. Notes/Algorithm/What is Algorithms.md",
@@ -234,7 +235,6 @@
     "3. Excalidraw/LinearRegression1.md",
     "3. Excalidraw/Pointer0.md",
     "3. Excalidraw/vertex-attribute.md",
-    "3. Excalidraw/VAO.md",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
