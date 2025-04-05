@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d5ee2711ccc229",
+        "id": "9211af0b38af7f8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a89fa1d3804300",
+            "id": "8679c679e6aad03c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-                "mode": "source",
-                "source": false
+                "aFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+                "bFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "CSS Learning Resources"
+              "icon": "diff",
+              "title": "Diff: CSS Learning Resources"
             }
           }
         ]
@@ -76,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33f54aef7c53acd4",
@@ -201,45 +203,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e2a89fa1d3804300",
+  "active": "8679c679e6aad03c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "1. Notes/Web Dev/HTML-CSS-JS",
-    "2. Fleeting Note/Untitled Kanban.md",
-    "2. Fleeting Note/Untitled Kanban 1.md",
-    "2. Fleeting Note/Untitled Kanban 2.md",
-    "1. Notes/Wellbeing/Calories.md",
-    "1. Notes/Wellbeing/Nutrient Calculation.md",
-    "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
-    "1. Notes/Web Dev",
-    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
-    "99. Excalidraw/vertex-attribute.md",
-    "99. Excalidraw/VAO.md",
-    "99. Excalidraw/LinearRegression1.md",
-    "99. Excalidraw/Pointer0.md",
-    "99. Excalidraw/LinearRegression.md",
-    "99. Excalidraw",
-    "98. Templates/Resources.md",
     "98. Templates/Note.md",
-    "98. Templates",
+    "98. Templates/Fleeting Note.md",
+    "98. Templates/Resources.md",
+    "1. Notes/Web Dev",
+    "conflict-files-obsidian-git.md",
+    "2. Fleeting Note/Untitled Kanban.md",
+    "2. Fleeting Note/Dick @{2025-04-10}'.md",
+    "1. Notes/Uni/TACN/New word.md",
+    "3. Books/Untitled.md",
+    "1. Notes/Uni/NLHDH/Course Info.md",
+    "1. Notes/OpenGL/Texture/1. Texture Wrapping.md",
     "2. Fleeting Note/LTHT.md",
-    "1. Notes/AI-ML/1-Linear-Regression-p1.md",
-    "1. Notes/AI-ML/Data Set/Student Performance Data Set.md",
-    "1. Notes/AI-ML/0a-Study-Plan.md",
-    "1. Notes/AI-ML/0b-Setting Up.md",
-    "1. Notes/AI-ML/3-Saving-Model-and-Plotting-Data.md",
-    "1. Notes/AI-ML/2-Linear-Regression-p2.md",
-    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "1. Notes/Uni/NLOOP/Untitled.md",
+    "1. Notes/Uni/NLOOP/Operator Overloading.md",
+    "1. Notes/Uni/NLOOP/Class and Object.md",
+    "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
+    "1. Notes/Uni/Thiết bị mạng.md",
+    "1. Notes/Uni/PLDC.md",
+    "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
+    "99. Excalidraw/vertex-attribute.md",
     "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
-    "1. Notes/OpenGL/1.2. Vertex Buffer Object (VBO).md",
-    "4. Templates",
+    "3. Books",
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "2. Fleeting Note/App Ideas.md",
+    "1. Notes/Computer Science/Algorithm/What is Algorithms.md",
+    "1. Notes/Computer Science/Algorithm/Linear-Regression.md",
+    "1. Notes/OpenGL/Opengl Rendering pipeline.md",
+    "98. Templates",
     "1. Notes/3D-Modeling",
     "1. Notes/Untitled.canvas",
     "1. Notes/Game Dev/GDD",
     "1. Notes/Uni/TTHCM",
     "1. Notes/Uni/TACN",
     "1. Notes/Uni/NLOOP",
+    "1. Notes/Uni/NLHDH",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
     "1. Notes/OpenGL/images/texture_coordinates.png",
