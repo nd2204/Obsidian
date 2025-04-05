@@ -1,15 +1,11 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-<<<<<<< HEAD
-  "autoSaveInterval": 30,
-=======
   "autoSaveInterval": 5,
->>>>>>> origin/main
   "autoPushInterval": 0,
   "autoPullInterval": 30,
-  "autoPullOnBoot": true,
-  "disablePush": true,
+  "autoPullOnBoot": false,
+  "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
   "disablePopupsForNoChanges": false,
@@ -20,10 +16,10 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
-  "refreshSourceControl": false,
-  "basePath": "nd2204/Obsidian",
-  "differentIntervalCommitAndPush": true,
-  "changedFilesInStatusBar": true,
+  "refreshSourceControl": true,
+  "basePath": "",
+  "differentIntervalCommitAndPush": false,
+  "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -58,6 +54,5 @@
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-  },
-  "autoCommitMessage": "automatic backup: {{date}}"
+  }
 }
