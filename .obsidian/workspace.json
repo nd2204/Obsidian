@@ -11,10 +11,14 @@
             "id": "b46b0262dae66e56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "98. Templates/Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "98. Templates/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Note"
             }
           },
           {
@@ -127,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "98. Templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Note"
             }
           },
           {
@@ -198,8 +204,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7f89407139505b7b",
+  "active": "b46b0262dae66e56",
   "lastOpenFiles": [
+    "98. Templates/Fleeting Note.md",
+    "98. Templates/Note.md",
+    "98. Templates/Resources.md",
     "1. Notes/Web Dev",
     "conflict-files-obsidian-git.md",
     "2. Fleeting Note/Untitled Kanban.md",
@@ -215,11 +224,9 @@
     "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
     "1. Notes/Uni/Thiết bị mạng.md",
     "1. Notes/Uni/PLDC.md",
-    "98. Templates/Note.md",
     "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
     "99. Excalidraw/vertex-attribute.md",
     "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
-    "98. Templates/Resources.md",
     "3. Books",
     "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
     "2. Fleeting Note/App Ideas.md",
@@ -236,7 +243,6 @@
     "1. Notes/Uni/NLOOP",
     "1. Notes/Uni/NLHDH",
     "1. Notes/Uni/CTDL và Giải thuật",
-    "1. Notes/Uni",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
     "1. Notes/OpenGL/images/texture_coordinates.png",
