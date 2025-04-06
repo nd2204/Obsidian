@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9211af0b38af7f8f",
+        "id": "fe7854e90dc872c8",
         "type": "tabs",
         "children": [
           {
-            "id": "8679c679e6aad03c",
+            "id": "621d5f153ab2ad22",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-                "bFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: CSS Learning Resources"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -203,7 +198,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8679c679e6aad03c",
+  "active": "621d5f153ab2ad22",
   "lastOpenFiles": [
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "1. Notes/Web Dev/HTML-CSS-JS",
