@@ -4,30 +4,21 @@ created_date: 2025/04/05
 updated_date: 2025/04/05
 type: note
 tags:
+  - "#WebDev"
+  - "#Programming"
+  - "#UI/UX"
 ---
----
-
-| Next     | N/a |
-| -------- | --- |
-| Previous | N/a |
-
 ---
 > [!INFORMATION] Overview
 > Lorem ipsum
 
 ---
-## 📌 Key Points
----
 
-- 
-- 
+#### CSS Grid
+- Practice: [CSS Grid Garden](https://cssgridgarden.com)
 
----
-## 📚 Details
----
-### Topic 1
-- 
-- 
+#### Flex Box
+- Practice: [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ---
 ## 🔗 REFERENCES
