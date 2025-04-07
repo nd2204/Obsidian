@@ -8,12 +8,6 @@ tags:
   - "#Programming"
 ---
 ---
-
-| Next     | N/a |
-| -------- | --- |
-| Previous | N/a |
-
----
 > [!INFORMATION] Overview
 > Lorem ipsum
 
