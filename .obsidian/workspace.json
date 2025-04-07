@@ -11,15 +11,14 @@
             "id": "8679c679e6aad03c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-                "bFile": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "1. Notes/Computer Science/Design Patterns/Flyweight.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: CSS Learning Resources"
+              "icon": "lucide-file",
+              "title": "Flyweight"
             }
           }
         ]
@@ -203,7 +202,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b84e06f9eb732d72",
+  "active": "7f89407139505b7b",
   "lastOpenFiles": [
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "1. Notes/Web Dev/HTML-CSS-JS",
