@@ -11,7 +11,7 @@ tags:
 > [!INFORMATION] Overview
 > Lorem ipsum
 
-#flashcards/something
+
 
 ---
 ## 📌 Key Points
