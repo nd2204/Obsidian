@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "9d1ad820093e0ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb3d861ab4c77ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e729c6ae48b532c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f1ffb298c49213e",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f2e435027f1b31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f661f65b761be9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e53f20c5fde5b156",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b84e06f9eb732d72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "33f54aef7c53acd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0c3dfb848bda9d",
+        "type": "tabs",
+        "dimension": 51.067961165048544,
+        "children": [
+          {
+            "id": "7f89407139505b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc32689c845ea702",
+        "type": "tabs",
+        "dimension": 48.932038834951456,
+        "children": [
+          {
+            "id": "0751e26b84b45e58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c3c4581547f2854d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a459a74c49f091b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e03f0ce29d7039e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6a11e3c57a8874f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "6a11e3c57a8874f8",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-07 13.45.38.excalidraw.md",
+    "Excalidraw",
+    "1. Notes/Computer Science/Cloud",
+    "conflict-files-obsidian-git.md",
+    "1. Notes/Computer Science/Design Patterns/Flyweight.md",
+    "1. Notes/Computer Science/Design Patterns",
+    "1. Notes/Computer Science/Build System/Make.md",
+    "1. Notes/Computer Science/Build System",
+    "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+    "1. Notes/Web Dev/HTML-CSS-JS",
+    "98. Templates/Note.md",
+    "98. Templates/Fleeting Note.md",
+    "98. Templates/Resources.md",
+    "1. Notes/Web Dev",
+    "2. Fleeting Note/Untitled Kanban.md",
+    "2. Fleeting Note/Dick @{2025-04-10}'.md",
+    "1. Notes/Uni/TACN/New word.md",
+    "3. Books/Untitled.md",
+    "1. Notes/Uni/NLHDH/Course Info.md",
+    "1. Notes/OpenGL/Texture/1. Texture Wrapping.md",
+    "2. Fleeting Note/LTHT.md",
+    "1. Notes/Uni/NLOOP/Untitled.md",
+    "1. Notes/Uni/NLOOP/Operator Overloading.md",
+    "1. Notes/Uni/NLOOP/Class and Object.md",
+    "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
+    "1. Notes/Uni/Thiết bị mạng.md",
+    "1. Notes/Uni/PLDC.md",
+    "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
+    "99. Excalidraw/vertex-attribute.md",
+    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
+    "3. Books",
+    "1. Notes/OpenGL/1.1. OpenGL Buffer - Overview.md",
+    "2. Fleeting Note/App Ideas.md",
+    "98. Templates",
+    "1. Notes/3D-Modeling",
+    "1. Notes/Untitled.canvas",
+    "1. Notes/Game Dev/GDD",
+    "1. Notes/OpenGL/images/texture_wrapping.png",
+    "1. Notes/OpenGL/images/texture_filtering.png",
+    "1. Notes/OpenGL/images/texture_coordinates.png",
+    "1. Notes/OpenGL/images/textures.png",
+    "1. Notes/OpenGL/images/mipmap.png",
+    "1. Notes/OpenGL/images/filter_nearest.png",
+    "1. Notes/OpenGL/images/filter_bilinear.png"
+  ]
+}
