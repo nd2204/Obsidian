@@ -33,9 +33,11 @@ tags:
 - 
 
 ---
-## 🔗 Further Reading And References
+## 🕳️ Further Reading
 ---
-#### Further Reading
 - N/a
-#### References
+
+---
+## 🔗 References
+---
 - N/a
