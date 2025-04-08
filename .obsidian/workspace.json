@@ -58,24 +58,8 @@
       {
         "id": "08f2e435027f1b31",
         "type": "tabs",
+        "dimension": 54.1033434650456,
         "children": [
-          {
-            "id": "1f661f65b761be9c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "e53f20c5fde5b156",
             "type": "leaf",
@@ -112,7 +96,31 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "3ba24f8f58e75c21",
+        "type": "tabs",
+        "dimension": 45.8966565349544,
+        "children": [
+          {
+            "id": "1f661f65b761be9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
