@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
+                "file": "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "In case they ask you what is Cloud Computing"
+              "title": "Client-Server model in depth"
             }
           }
         ]
@@ -160,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Client-Server model in depth"
             }
           },
           {
@@ -181,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,10 +203,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9e729c6ae48b532c",
+  "active": "e03f0ce29d7039e4",
   "lastOpenFiles": [
-    "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
+    "1. Notes/Computer Science/Pointer.md",
+    "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
     "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
+    "1. Notes/Computer Science/Networking",
+    "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
     "Excalidraw/Drawing 2025-04-07 13.45.38.excalidraw.md",
     "Excalidraw",
     "1. Notes/Computer Science/Cloud",
@@ -234,13 +238,10 @@
     "1. Notes/Uni/Thiết bị mạng.md",
     "1. Notes/Uni/PLDC.md",
     "1. Notes/3D-Modeling/Blender shortcuts for actions.md",
-    "99. Excalidraw/vertex-attribute.md",
-    "1. Notes/OpenGL/1.3. Vertex Attribute (VA).md",
     "3. Books",
     "98. Templates",
     "1. Notes/3D-Modeling",
     "1. Notes/Untitled.canvas",
-    "1. Notes/Game Dev/GDD",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
     "1. Notes/OpenGL/images/texture_coordinates.png",
