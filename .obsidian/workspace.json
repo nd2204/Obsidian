@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5281c02c698d9c",
+        "id": "71d879df375357f7",
         "type": "tabs",
         "children": [
           {
-            "id": "1706e67e9e89bddc",
+            "id": "df9090aaf6785630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
+                "file": "98. Templates/Number to star icon.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Number to star icon"
+            }
+          },
+          {
+            "id": "89ac115bf7e2ec42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Pattern"
+              "title": "Behavioral Patterns Overview"
             }
           }
         ]
@@ -61,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
+                "file": "98. Templates/Number to star icon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Pattern"
+              "title": "Outline of Number to star icon"
             }
           }
         ],
@@ -210,14 +224,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1706e67e9e89bddc",
+  "active": "df9090aaf6785630",
   "lastOpenFiles": [
-    "1. Notes/Computer Science/Design Patterns/Behavioral Pattern.md",
+    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
+    "98. Templates/Number to star icon.md",
+    "98. Templates/Scripts/number2star.js",
+    "98. Templates/Scripts/main.js",
+    "98. Templates/Scripts/Untitled.md",
+    "98. Templates/Scripts",
+    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
+    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns",
+    "1. Notes/Computer Science/Object Oriented Programming.md",
     "1. Notes/Computer Science/Design Patterns/Observer Pattern.md",
     "98. Templates/Navigation Section.md",
     "98. Templates/Note.md",
     "2. Fleeting Note/Untitled.md",
-    "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
     "1. Notes/Computer Science/Cloud/Amazon EC2.md",
     "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
     "1. Notes/Computer Science/Virtualization and Emulation.md",
@@ -239,15 +260,7 @@
     "1. Notes/Computer Science/Build System/Make.md",
     "1. Notes/Computer Science/Build System",
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-    "1. Notes/Web Dev/HTML-CSS-JS",
     "98. Templates/Fleeting Note.md",
-    "1. Notes/Web Dev",
-    "2. Fleeting Note/Untitled Kanban.md",
-    "2. Fleeting Note/Dick @{2025-04-10}'.md",
-    "1. Notes/Uni/TACN/New word.md",
-    "3. Books/Untitled.md",
-    "3. Books",
-    "98. Templates",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
