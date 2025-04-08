@@ -10,8 +10,8 @@ tags:
 ---
 ---
 
-| Prerequisite | - [[SOLID principle]] |
-| ------------ | --------------------- |
+| Prerequisite | - [[Object Oriented Programming]]<br>- [[Behavioral Pattern]] |
+| ------------ | ------------------------------------------------------------- |
 
 ---
 > [!INFORMATION] Definition
