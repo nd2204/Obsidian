@@ -1,5 +1,5 @@
 ---
-id: Client-Server model in depth
+id: c200de77-4fd6-4b4e-8e9d-ca17348550c0
 created_date: 2025/04/08
 updated_date: 2025/04/08
 type: note
