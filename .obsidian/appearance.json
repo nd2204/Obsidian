@@ -15,5 +15,6 @@
     "minimal-cards",
     "its-frontmatter",
     "custom-rainbow-colors"
-  ]
+  ],
+  "showRibbon": true
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddb3d861ab4c77ef",
+        "id": "fba0b2395a8d9c02",
         "type": "tabs",
         "children": [
           {
-            "id": "9e729c6ae48b532c",
+            "id": "b293fdee5a8f4031",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,10 +203,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e03f0ce29d7039e4",
+  "active": "6a11e3c57a8874f8",
   "lastOpenFiles": [
-    "1. Notes/Computer Science/Pointer.md",
+    "98. Templates/Note.md",
     "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
+    "1. Notes/Computer Science/Pointer.md",
     "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
     "1. Notes/Computer Science/Networking",
     "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
@@ -220,7 +221,6 @@
     "1. Notes/Computer Science/Build System",
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "1. Notes/Web Dev/HTML-CSS-JS",
-    "98. Templates/Note.md",
     "98. Templates/Fleeting Note.md",
     "98. Templates/Resources.md",
     "1. Notes/Web Dev",
