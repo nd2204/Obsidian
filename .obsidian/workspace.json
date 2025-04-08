@@ -28,8 +28,18 @@
               "type": "markdown",
               "state": {
                 "file": "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Cloud Computing Deployment Model"
@@ -85,14 +95,28 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "e03f0ce29d7039e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cloud Computing Deployment Model"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "33f54aef7c53acd4",
@@ -170,21 +194,6 @@
             }
           },
           {
-            "id": "e03f0ce29d7039e4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Cloud Computing Deployment Model"
-            }
-          },
-          {
             "id": "6a11e3c57a8874f8",
             "type": "leaf",
             "pinned": true,
@@ -197,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

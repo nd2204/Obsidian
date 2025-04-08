@@ -3,7 +3,8 @@ id: 879b0e08-5032-4c01-a5a4-473397648588
 created_date: 2025-04-08T09:45:44
 type: note
 tags:
-  - Uncategorized
+  - Cloud
+  - CompSci
 ---
 ---
 > [!INFORMATION] Overview
@@ -22,6 +23,8 @@ In a **cloud-based deployment** model, you can migrate existing applications t
 
 > [!EXAMPLE]
 > For example, a company might create an application consisting of virtual servers, databases, and networking components that are fully based in the cloud.
+
+---
 #### On-premises Deployment
 - Deploy resources by using virtualization and resource management tools.
 - Increase resource utilization by using application management and virtualization technologies.
