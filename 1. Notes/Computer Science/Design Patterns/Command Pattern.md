@@ -14,7 +14,7 @@ tags:
 | ------------ | --------------------- |
 
 ---
-> [!INFORMATION] Overview
+> [!INFORMATION] Definition
 > Lorem ipsum
 
 ---
