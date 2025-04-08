@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32ad325e29d6fe69",
+        "id": "b4e8fd6531a18374",
         "type": "tabs",
         "children": [
           {
-            "id": "fdbc353d25de776d",
+            "id": "6d2e307a91959958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98. Templates/Note.md",
+                "file": "1. Notes/Computer Science/Cloud/Amazon EC2.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Amazon EC2"
             }
           }
         ]
@@ -71,13 +61,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. Templates/Note.md",
+                "file": "1. Notes/Computer Science/Cloud/Amazon EC2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Amazon EC2"
             }
           }
         ],
@@ -220,12 +210,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fdbc353d25de776d",
+  "active": "6d2e307a91959958",
   "lastOpenFiles": [
-    "98. Templates/Further Reading Section.md",
-    "98. Templates/Note.md",
     "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
+    "1. Notes/Computer Science/Cloud/Amazon EC2.md",
+    "1. Notes/Computer Science/Virtualization and Emulation.md",
     "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
+    "98. Templates/Note.md",
+    "98. Templates/Properties.md",
+    "98. Templates/Reference Section.md",
+    "98. Templates/Further Reading Section.md",
     "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
     "98. Templates/Resources.md",
     "1. Notes/Computer Science/Crytographic",
@@ -252,10 +246,6 @@
     "1. Notes/OpenGL/Texture/1. Texture Wrapping.md",
     "2. Fleeting Note/LTHT.md",
     "1. Notes/Uni/NLOOP/Untitled.md",
-    "1. Notes/Uni/NLOOP/Operator Overloading.md",
-    "1. Notes/Uni/NLOOP/Class and Object.md",
-    "1. Notes/Uni/NLOOP/Các nguyên lý cơ bản.md",
-    "1. Notes/Uni/Thiết bị mạng.md",
     "3. Books",
     "98. Templates",
     "1. Notes/Untitled.canvas",
