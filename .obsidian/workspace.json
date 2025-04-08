@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
-                "mode": "preview",
+                "file": "98. Templates/Note.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing Deployment Model"
+              "title": "Note"
             }
           }
         ]
@@ -71,13 +71,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
+                "file": "98. Templates/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Computing Deployment Model"
+              "title": "Outline of Note"
             }
           }
         ],
@@ -222,9 +222,10 @@
   },
   "active": "fdbc353d25de776d",
   "lastOpenFiles": [
-    "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
+    "98. Templates/Further Reading Section.md",
     "98. Templates/Note.md",
     "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
+    "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
     "1. Notes/Computer Science/Design Patterns/Command Pattern.md",
     "98. Templates/Resources.md",
     "1. Notes/Computer Science/Crytographic",

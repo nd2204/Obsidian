@@ -32,11 +32,8 @@ tags:
 - 
 - 
 
----
-## 🕳️ Further Reading
----
-- N/a
 
+<% tp. %>
 ---
 ## 🔗 References
 ---
