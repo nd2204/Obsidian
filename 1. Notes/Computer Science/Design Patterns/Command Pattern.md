@@ -1,17 +1,21 @@
 ---
-id: Command Pattern
-created_date: 2025/04/07
-updated_date: 2025/04/07
+id: a5d84bb4-2baa-4ff5-a01b-4f9b030410ff
+created_date: 2025-04-07T16:10:37
 type: note
 tags:
   - "#DesignPattern"
+  - "#CompSci"
   - "#Programming"
+  - "#DesignPattern/BehaviouralPattern"
 ---
+---
+
+| Prerequisite | - [[SOLID principle]] |
+| ------------ | --------------------- |
+
 ---
 > [!INFORMATION] Overview
 > Lorem ipsum
-
-
 
 ---
 ## 📌 Key Points
@@ -28,7 +32,12 @@ tags:
 - 
 
 ---
-## 🔗 REFERENCES
+## 🕳️ Further Reading
 ---
+- N/a
 
-- [references]()
+
+---
+## 🔗 References
+---
+- N/a
