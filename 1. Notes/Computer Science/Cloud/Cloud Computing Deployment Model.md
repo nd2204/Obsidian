@@ -7,6 +7,11 @@ tags:
   - CompSci
 ---
 ---
+
+| Prerequisite | - [[In case they ask you what is Cloud Computing]]<br> |
+| ------------ | ------------------------------------------------------ |
+
+---
 > [!INFORMATION] Overview
 > - When selecting a cloud strategy, a company must consider factors such as required cloud application components, preferred resource management tools, and any legacy IT infrastructure requirements.
 > - The three cloud computing deployment models are ***cloud-based***, ***on-premises***, and ***hybrid***.
@@ -26,6 +31,9 @@ In a **cloud-based deployment** model, you can migrate existing applications t
 
 ---
 #### On-premises Deployment
+> [!sumary]
+> You are the cloud!
+
 - Deploy resources by using virtualization and resource management tools.
 - Increase resource utilization by using application management and virtualization technologies.
 

@@ -11,6 +11,9 @@ tags:
 | -------- | --- |
 | Previous | N/a |
 
+| Prerequisite | - N/a |
+| ------------ | ----- |
+
 ---
 > [!INFORMATION] Overview
 > Lorem ipsum
@@ -30,7 +33,9 @@ tags:
 - 
 
 ---
-## 🔗 REFERENCES
+## 🔗 Further Reading And References
 ---
-
+#### Further Reading
+- N/a
+#### References
 - N/a
