@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
-                "mode": "preview",
-                "source": true
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Patterns Overview"
+              "title": "Behavioral Design Patterns"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Patterns Overview"
+              "title": "Behavioral Design Patterns"
             }
           }
         ]
@@ -75,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Behavioral Patterns Overview"
+              "title": "Outline of Behavioral Design Patterns"
             }
           }
         ],
@@ -226,8 +226,9 @@
   },
   "active": "df9090aaf6785630",
   "lastOpenFiles": [
+    "1. Notes/Computer Science/Design Patterns/Creational Patterns",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
-    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
+    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "1. Notes/Computer Science/Design Patterns/Structural Patterns",
     "98. Templates/Number to star icon.md",
     "98. Templates/Scripts/number2star.js",

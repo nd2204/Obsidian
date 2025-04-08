@@ -3,14 +3,16 @@ function number2star(numberStr) {
   if (number > 5) number = 5;
   if (number <= 0) number = 0.5;
 
-  frac = number - Math.floor(number);
+  let whole = Math.floor(number);
+  let frac = number - whole;
+
   let res = ""
 
-  for (let i = 0; i < number; i += 1) {
+  for (let i = 0; i < whole; i += 1) {
     res += ":LiStar:";
   }
 
-  return (frac > 0) ? res : res + ":LiStarHalf:";
+  return (frac < 0.5) ? res : res + ":LiStarHalf:";
 }
 
 module.exports = number2star;
