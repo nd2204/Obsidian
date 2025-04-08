@@ -18,20 +18,20 @@ tags: []
 ---
 
 
-| **Pattern**                 | **Usefulness (1–5)**                                 | **Difficulty (1–5)**                                 | **Notes**                                                                   |
-| --------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
-| **Observer**                | :LiStar::LiStar::LiStar::LiStar::LiStar::LiStarHalf: | :LiStar::LiStar::LiStarHalf:                         | Core for event-driven design, UI systems, and pub-sub mechanisms.           |
-| **Strategy**                | :LiStar::LiStar::LiStar::LiStar::LiStar:             | :LiStar::LiStar::LiStarHalf:                         | A go-to for making algorithms interchangeable; very intuitive.              |
-| **Command**                 | :LiStar::LiStar::LiStar::LiStar::LiStarHalf:         | :LiStar::LiStar::LiStar::LiStarHalf:                 | Powerful for decoupling senders/receivers, task queues, or undo stacks.     |
-| **Iterator**                | :LiStar::LiStar::LiStar::LiStar::LiStarHalf:         | :LiStar::LiStar:                                     | Very easy in most languages; great for abstracting collections.             |
-| **State**                   | :LiStar::LiStar::LiStar::LiStar::LiStarHalf:         | :LiStar::LiStar::LiStar::LiStarHalf:                 | Clean handling of object state transitions; can be overused.                |
-| **Chain of Responsibility** | :LiStar::LiStar::LiStar::LiStar:                     | :LiStar::LiStar::LiStar::LiStarHalf:                 | Ideal for flexible request handling pipelines. Slightly abstract.           |
-| **Mediator**                | :LiStar::LiStar::LiStar::LiStar:                     | :LiStar::LiStar::LiStar::LiStar:                     | Reduces coupling between classes, but may grow too central.                 |
-| **Template Method**         | :LiStar::LiStar::LiStar::LiStarHalf:                 | :LiStar::LiStar::LiStarHalf:                         | Solid for frameworks and base class extension; can feel rigid.              |
-| **Visitor**                 | :LiStar::LiStar::LiStar::LiStarHalf:                 | :LiStar::LiStar::LiStar::LiStar::LiStarHalf:         | Good for structured object operations (like ASTs); breaks encapsulation.    |
-| **Memento**                 | :LiStar::LiStar::LiStar:                             | :LiStar::LiStar::LiStar::LiStarHalf:                 | Handy for snapshotting internal state (e.g., undo), but not broadly needed. |
-| **Null Object**             | :LiStar::LiStar::LiStar:                             | :LiStar::LiStarHalf:                                 | Lightweight and simple; avoids null checks, rarely critical though.         |
-| **Interpreter**             | :LiStar::LiStar::LiStarHalf:                         | :LiStar::LiStar::LiStar::LiStar::LiStar::LiStarHalf: | Niche usage (custom DSLs, language parsers); high complexity.               |
+|**Pattern**|**Usefulness (1–5)**|**Difficulty (1–5)**|**Notes**|
+|---|---|---|---|
+|**Observer**|5.0|2.0|Core for event-driven design, UI systems, and pub-sub mechanisms.|
+|**Strategy**|4.5|2.0|A go-to for making algorithms interchangeable; very intuitive.|
+|**Command**|4.0|3.0|Powerful for decoupling senders/receivers, task queues, or undo stacks.|
+|**Iterator**|4.0|1.5|Very easy in most languages; great for abstracting collections.|
+|**State**|4.0|3.0|Clean handling of object state transitions; can be overused.|
+|**Chain of Responsibility**|3.5|3.0|Ideal for flexible request handling pipelines. Slightly abstract.|
+|**Mediator**|3.5|3.5|Reduces coupling between classes, but may grow too central.|
+|**Template Method**|3.0|2.0|Solid for frameworks and base class extension; can feel rigid.|
+|**Visitor**|3.0|4.0|Good for structured object operations (like ASTs); breaks encapsulation.|
+|**Memento**|2.5|3.0|Handy for snapshotting internal state (e.g., undo), but not broadly needed.|
+|**Null Object**|2.5|1.0|Lightweight and simple; avoids null checks, rarely critical though.|
+|**Interpreter**|2.0|5.0|Niche usage (custom DSLs, language parsers); high complexity.|
 
 ---
 ## 🕳️ Further Reading

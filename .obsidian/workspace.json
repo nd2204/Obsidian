@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Behavioral Patterns Overview"
