@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98. Templates/Number to star icon.md",
-                "mode": "source",
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Number to star icon"
+              "title": "Behavioral Patterns Overview"
             }
           },
           {
@@ -75,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. Templates/Number to star icon.md",
+                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Number to star icon"
+              "title": "Outline of Behavioral Patterns Overview"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "df9090aaf6785630",
   "lastOpenFiles": [
-    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
     "98. Templates/Number to star icon.md",
+    "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Patterns Overview.md",
     "98. Templates/Scripts/number2star.js",
     "98. Templates/Scripts/main.js",
     "98. Templates/Scripts/Untitled.md",

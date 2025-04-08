@@ -18,23 +18,20 @@ tags: []
 ---
 
 
-| **Pattern**                   | **Usefulness (1–5)**                         | **Difficulty (1–5)**     | **Notes**                                                                                         |
-| ----------------------------- | -------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------- |
-| **[[Observer Pattern]]**      | :LiStar::LiStar::LiStar::LiStar::LiStar:     | :LiStar::LiStar:         | Extremely useful in event-driven systems (e.g., GUIs, pub-sub systems). Fairly easy to implement. |
-| **Strategy**                  | :LiStar::LiStar::LiStar::LiStar::LiStarHalf: | :LiStar::LiStar:         | Promotes flexible algorithms, often used to avoid conditionals. Easy and commonly used.           |
-| **Command**                   | :LiStar::LiStar::LiStar::LiStar:             | :LiStar::LiStar::LiStar: | Useful for undo/redo, task scheduling, and actions as objects. A bit more abstract.               |
-| **Iterator**                  | :LiStar::LiStar::LiStar::LiStar:             | :LiStar::LiStarHalf:     | Standard in collections; very easy in modern languages with built-in support.                     |
-| **State**                     | :LiStar::LiStar::LiStar::LiStar:             |                          | Great for managing object behavior changes over time; moderately complex.                         |
-| **Mediator**                  | :LiStar::LiStar::LiStar::LiStarHalf:         | 3                        | Helps reduce class coupling in UI systems; slightly abstract but useful.                          |
-| **Chain of Responsibility**   | :LiStar::LiStar::LiStar::LiStarHalf:         | 3                        | Useful for building pipelines or request-processing chains. Requires careful planning.            |
-| **Visitor**                   | :LiStar::LiStar::LiStar:                     | 4                        | Good for operations on object structures (e.g., ASTs), but can break encapsulation.               |
-| **Template Method**           | :LiStar::LiStar::LiStar:                     | 2                        | Useful for code reuse in frameworks; not hard but somewhat rigid.                                 |
-| **Interpreter**               | :LiStar::LiStar:                             | 5                        | Niche use (e.g., language processing); very hard to implement and maintain.                       |
-| **Memento**                   | :LiStar::LiStar::LiStarHalf:                 | 3                        | Helpful for saving/restoring state (like undo), but has limited use cases.                        |
-| **Null Object**               | :LiStar::LiStar::LiStarHalf:                 | 1                        | Very simple, prevents null checks; not widely needed but neat.                                    |
-| **Visitor (double dispatch)** | :LiStar::LiStar:                             | 4                        | Gets complex fast; mainly used in compilers and similar tools.                                    |
-| **Mediator (complex)**        | :LiStar::LiStar:                             | 4                        | When overused, it can become a god object.                                                        |
-
+|**Pattern**|**Usefulness (1–5)**|**Difficulty (1–5)**|**Notes**|
+|---|---|---|---|
+|**Observer**|5.0|2.0|Core for event-driven design, UI systems, and pub-sub mechanisms.|
+|**Strategy**|4.5|2.0|A go-to for making algorithms interchangeable; very intuitive.|
+|**Command**|4.0|3.0|Powerful for decoupling senders/receivers, task queues, or undo stacks.|
+|**Iterator**|4.0|1.5|Very easy in most languages; great for abstracting collections.|
+|**State**|4.0|3.0|Clean handling of object state transitions; can be overused.|
+|**Chain of Responsibility**|3.5|3.0|Ideal for flexible request handling pipelines. Slightly abstract.|
+|**Mediator**|3.5|3.5|Reduces coupling between classes, but may grow too central.|
+|**Template Method**|3.0|2.0|Solid for frameworks and base class extension; can feel rigid.|
+|**Visitor**|3.0|4.0|Good for structured object operations (like ASTs); breaks encapsulation.|
+|**Memento**|2.5|3.0|Handy for snapshotting internal state (e.g., undo), but not broadly needed.|
+|**Null Object**|2.5|1.0|Lightweight and simple; avoids null checks, rarely critical though.|
+|**Interpreter**|2.0|5.0|Niche usage (custom DSLs, language parsers); high complexity.|
 
 ---
 ## 🔗 References
