@@ -6,7 +6,7 @@ tags:
   - "#DesignPattern"
   - "#CompSci"
   - "#Programming"
-  - "#DesignPattern/BehaviouralPattern"
+  - "#DesignPattern/Behavioral"
 ---
 ---
 

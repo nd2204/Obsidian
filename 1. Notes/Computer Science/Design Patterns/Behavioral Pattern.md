@@ -1,9 +1,8 @@
 ---
-id: <% crypto.randomUUID() %>
-created_date: <% tp.file.creation_date('YYYY-MM-DDTHH:mm:ss') %>
+id: 8fe98caf-ec22-4a6e-a906-eb87cb981681
+created_date: 2025-04-08T13:30:31
 type: note
-tags:
-  - Uncategorized
+tags: []
 ---
 ---
 
@@ -15,19 +14,11 @@ tags:
 > Lorem ipsum
 
 ---
-## 📌 Key Points
+## 📚 Patterns
 ---
-
-- 
-- 
-
----
-## 📚 Details
----
-### Topic 1
-- 
-- 
-
+- [[Command Pattern]]
+- [[Observer Pattern]]
+- [[Strategy Pattern]]
 ---
 ## 🕳️ Further Reading
 ---
