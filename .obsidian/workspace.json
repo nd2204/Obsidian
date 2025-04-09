@@ -15,7 +15,7 @@
               "state": {
                 "file": "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Creational Design Patterns"
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
+                "file": "98. Templates/Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Behavioral Design Patterns"
+              "title": "Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
+                "file": "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Behavioral Design Patterns"
+              "title": "Outline of Creational Design Patterns"
             }
           }
         ],
@@ -225,8 +224,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "89ac115bf7e2ec42",
+  "active": "df9090aaf6785630",
   "lastOpenFiles": [
+    "98. Templates/Note.md",
     "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "1. Notes/Computer Science/Design Patterns/Creational Patterns",
@@ -241,7 +241,6 @@
     "1. Notes/Computer Science/Object Oriented Programming.md",
     "1. Notes/Computer Science/Design Patterns/Observer Pattern.md",
     "98. Templates/Navigation Section.md",
-    "98. Templates/Note.md",
     "2. Fleeting Note/Untitled.md",
     "1. Notes/Computer Science/Cloud/Amazon EC2.md",
     "1. Notes/Computer Science/Cloud/Cloud Computing Deployment Model.md",
