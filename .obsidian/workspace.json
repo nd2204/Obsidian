@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3ba24f8f58e75c21",
@@ -224,7 +224,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df9090aaf6785630",
+  "active": "b84e06f9eb732d72",
   "lastOpenFiles": [
     "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
     "98. Templates/Note.md",
