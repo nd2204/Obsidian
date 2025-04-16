@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71d879df375357f7",
+        "id": "c74a17c91fc928b0",
         "type": "tabs",
         "children": [
           {
-            "id": "df9090aaf6785630",
+            "id": "ba5e2654869e4cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Fleeting Note/PTTKHDT.md",
+                "file": "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PTTKHDT"
-            }
-          },
-          {
-            "id": "89ac115bf7e2ec42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98. Templates/Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Note"
+              "title": "Object Oriented Programming"
             }
           }
         ]
@@ -75,13 +61,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+                "file": "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSS Learning Resources"
+              "title": "Outline of Object Oriented Programming"
             }
           }
         ],
@@ -98,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:DesignPattern/BehavioralPattern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "33f54aef7c53acd4",
@@ -224,14 +211,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df9090aaf6785630",
+  "active": "b84e06f9eb732d72",
   "lastOpenFiles": [
-    "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+    "1. Notes/Computer Science/Object Oriented Programming",
+    "98. Templates/Note.md",
     "2. Fleeting Note/PTTKHDT.md",
+    "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "conflict-files-obsidian-git.md",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
     "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
-    "98. Templates/Note.md",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "1. Notes/Computer Science/Design Patterns/Creational Patterns",
     "1. Notes/Computer Science/Design Patterns/Structural Patterns",
@@ -241,7 +229,7 @@
     "98. Templates/Scripts/Untitled.md",
     "98. Templates/Scripts",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns",
-    "1. Notes/Computer Science/Object Oriented Programming.md",
+    "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "1. Notes/Computer Science/Design Patterns/Observer Pattern.md",
     "98. Templates/Navigation Section.md",
     "1. Notes/Computer Science/Cloud/Amazon EC2.md",
@@ -261,7 +249,6 @@
     "1. Notes/Computer Science/Cloud",
     "1. Notes/Computer Science/Design Patterns/Flyweight.md",
     "1. Notes/Computer Science/Build System/Make.md",
-    "98. Templates/Fleeting Note.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
