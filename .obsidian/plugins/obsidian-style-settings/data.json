@@ -53,9 +53,14 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": false,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-alt-tab-custom-height": 46,
   "anuppuccin-theme-settings@@anp-safari-tab-gap": 8,
-  "anuppuccin-theme-settings@@anp-safari-border-width": 1
+  "anuppuccin-theme-settings@@anp-safari-border-width": 1,
+  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-accent",
+  "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-rosewater",
+  "anp-custom-rainbow-colors@@rainbow-color-repeat": "rainbow-repeat-1",
+  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-rosewater",
+  "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-rosewater"
 }

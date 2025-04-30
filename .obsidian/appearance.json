@@ -13,6 +13,8 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "minimal-cards",
-    "its-frontmatter"
-  ]
+    "its-frontmatter",
+    "custom-rainbow-colors"
+  ],
+  "showRibbon": true
 }

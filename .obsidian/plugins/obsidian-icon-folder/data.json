@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComponent",
+      "LiBook",
       "LiBookTemplate",
       "LiPen",
-      "LiExcalidrawIcon",
-      "LiAlarmClock",
-      "LiAxe"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,8 @@
     "useInternalPlugins": false
   },
   "2. Fleeting Note": "LiAlarmClock",
-  "1. Notes": "LiAxe"
+  "1. Notes": "LiAxe",
+  "3. Books": "LiBook",
+  "98. Templates": "LiBookTemplate",
+  "99. Excalidraw": "LiComponent"
 }
