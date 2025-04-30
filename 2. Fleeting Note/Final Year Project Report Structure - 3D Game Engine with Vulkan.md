@@ -1,41 +1,42 @@
+
+
 Final Year Project Report Structure: 3D Game Engine with Vulkan
 This document outlines the structure for a final-year project report for a computer science major, focusing on the development of a basic 3D game engine using Vulkan. The structure is designed to meet academic standards, providing a clear, comprehensive narrative of the project’s motivation, methodology, implementation, and evaluation. Below, each section is described with guidance on content, including an introduction to the project and explanations of key decisions and technologies used.
-Title Page
 
-Content: 
-Project title: "Development of a Basic 3D Game Engine Using Vulkan"
-Student’s name
-Supervisor’s name
-University name
-Date: April 2025
+## Title Page
+#### Content: 
+- Project title: "Development of a Basic 3D Game Engine Using Vulkan"
+- Student’s name
+- Supervisor’s name
+- University name
+- Date: April 2025
+#### Purpose:
+Provides formal identification of the project and its context.
+## Abstract
 
-
-Purpose: Provides formal identification of the project and its context.
-
-Abstract
-
-Content: A concise summary (150-250 words) of the project, including:
+#### Content:
+A concise summary (150-250 words) of the project, including:
 Objective: Build a 3D game engine with Vulkan.
 Methods: Use of Vulkan, ECS architecture, and multithreading.
 Key outcomes: Functional engine rendering 3D scenes with user input and asset management.
 Significance: Demonstrates graphics programming and software engineering skills.
 
+#### Purpose:
+Offers a quick overview for readers to understand the project’s scope and results.
 
-Purpose: Offers a quick overview for readers to understand the project’s scope and results.
-
-Acknowledgements
-
-Content: Express gratitude to:
+## Acknowledgements
+#### Content:
+Express gratitude to:
 Supervisor for guidance.
 Peers or family for support.
 Any external resources (e.g., Vulkan tutorials).
+#### Purpose:
+Recognizes contributions to the project’s success.
 
+## Table of Contents
 
-Purpose: Recognizes contributions to the project’s success.
-
-Table of Contents
-
-Content: Lists all sections and subsections with page numbers.
+#### Content:
+Lists all sections and subsections with page numbers.
 Purpose: Facilitates navigation through the report.
 
 List of Figures/Tables
@@ -43,7 +44,7 @@ List of Figures/Tables
 Content: Enumerates figures (e.g., screenshots of rendered scenes) and tables (e.g., performance metrics).
 Purpose: Helps readers locate visual or tabular data.
 
-Chapter 1: Introduction
+## Chapter 1: Introduction
 
 Content:
 Background: Graphics programming is central to computer science, enabling applications like games and simulations. Vulkan, a modern rendering API, offers high performance and control compared to OpenGL.
