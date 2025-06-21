@@ -100,6 +100,16 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "babfde68ccffdd80",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ]
       },
@@ -202,7 +212,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a5f858fda8647c52",
+  "active": "7f89407139505b7b",
   "lastOpenFiles": [
     "2. Fleeting Note/Final Year Project Report Structure - 3D Game Engine with Vulkan.md",
     "2. Fleeting Note/GAME ENGINE DEV LEARNING PLAN.md",
