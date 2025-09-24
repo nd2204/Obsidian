@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Notes/Computer Science/Networking/Study Plans.md",
+                "file": "1. Notes/Game Dev/GameEngine/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Plans"
+              "title": "Untitled"
             }
           }
         ]
@@ -214,8 +214,10 @@
   },
   "active": "a5f858fda8647c52",
   "lastOpenFiles": [
-    "2. Fleeting Note/GAME ENGINE DEV LEARNING PLAN.md",
     "1. Notes/Computer Science/Networking/Study Plans.md",
+    "1. Notes/Game Dev/GameEngine/Untitled.md",
+    "1. Notes/Game Dev/GameEngine",
+    "2. Fleeting Note/GAME ENGINE DEV LEARNING PLAN.md",
     "1. Notes/Computer Science/Untitled",
     "2. Fleeting Note/Final Year Project Report Structure - 3D Game Engine with Vulkan.md",
     "conflict-files-obsidian-git.md",
@@ -248,8 +250,6 @@
     "98. Templates/Note.md",
     "98. Templates/Fleeting Note.md",
     "98. Templates/Resources.md",
-    "1. Notes/Web Dev",
-    "2. Fleeting Note/Untitled Kanban.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
