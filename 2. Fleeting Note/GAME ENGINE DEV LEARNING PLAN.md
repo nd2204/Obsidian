@@ -110,17 +110,14 @@ A table of recommended books, categorized by focus area, is provided below:
 - **Codecademy**: Courses on game development, including C# and 3D modeling, ideal for beginners ([Codecademy](https://www.codecademy.com/catalog/subject/game-development)).  
 - **Game Institute**: Certified courses on Unity, Unreal Engine, and other tools, with industry-recognized training ([Game Institute](https://www.gameinstitute.com/)).  
 - **CG Spectrum**: Expert-led courses on Unreal Engine, focusing on game-ready assets and prototypes ([CG Spectrum](https://www.cgspectrum.com/courses/game-development)).
-
 ##### Communities and Forums
 - Engage with Reddit communities like r/gamedev, r/gameenginedevs, r/Unity3D, and r/UnrealEngine for support and networking ([Reddit](https://www.reddit.com/r/gameDevClassifieds/comments/4dt8dg/how_to_become_a_game_engine_programmer/)).  
 - Join GameDev.net for discussions on projects and industry insights ([GameDev.net](https://www.gamedev.net/)).  
 - Follow Gamasutra for industry news and articles to stay updated ([Gamasutra](https://www.gamasutra.com/)).
-
 ##### Open-Source Projects and Tutorials
 - Contribute to open-source engines like Godot, Horde3D, or Ogre3D to gain practical experience and understand engine architecture.  
 - Explore tutorials on Harold Serrano’s blog for detailed guides on building math engines, rendering engines, and physics engines ([Harold Serrano](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer)).  
 - Use GameDev.tv for Unity and Unreal Engine tutorials, and Catlike Coding for advanced Unity concepts.
-
 ##### Essential Tools
 - **Programming Languages**: C++, C#, Python.  
 - **Game Engines**: Unity, Unreal Engine, Godot.  
@@ -128,7 +125,6 @@ A table of recommended books, categorized by focus area, is provided below:
 - **Version Control**: Git for collaborative development.  
 - **IDE**: Visual Studio, Visual Studio Code for coding.  
 - **Mathematics Software**: MATLAB or Mathematica for learning, though not essential for development.
-
 #### Additional Considerations
 Building a portfolio is crucial, as employers value practical experience. Start with small projects, like a math library or basic rendering engine, and gradually tackle more complex tasks. Engage with the community for feedback and mentorship, and stay persistent, as game engine development is technically demanding but artistically rewarding. The evidence leans toward continuous learning being essential, given the fast-evolving nature of the gaming industry, ensuring you remain adaptable and competitive.
 
