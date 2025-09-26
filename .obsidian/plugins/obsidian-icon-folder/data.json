@@ -35,8 +35,8 @@
     "useInternalPlugins": false
   },
   "2. Fleeting Note": "LiAlarmClock",
-  "1. Notes": "LiAxe",
   "98. Templates": "LiBookTemplate",
   "99. Excalidraw": "LiComponent",
-  "3. Literature Note": "LiBook"
+  "3. Literature Note": "LiBook",
+  "1. Permanent Notes": "LiAxe"
 }

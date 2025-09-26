@@ -7,7 +7,12 @@ views:
       - file.tags
       - file.ctime
       - file.size
+      - links
     sort:
+      - property: file.size
+        direction: DESC
+      - property: file.tags
+        direction: DESC
       - property: file.name
         direction: ASC
     columnSize:
