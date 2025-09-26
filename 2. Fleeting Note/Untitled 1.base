@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
+      - file.tags
+      - file.ctime
+      - file.size
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.ctime: 241
+  - type: cards
+    name: View
+    image: note.excalidraw-plugin

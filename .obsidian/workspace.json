@@ -4,54 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c74a17c91fc928b0",
+        "id": "aefa0b5c99376803",
         "type": "tabs",
         "children": [
           {
-            "id": "2d33c1694d985c1a",
+            "id": "3a13d437d3c7835b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "67363c9f16b157c0",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "5a74e0227e71b96b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +56,8 @@
               "title": "Outline of Object Oriented Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ba24f8f58e75c21",
@@ -231,8 +198,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5a74e0227e71b96b",
+  "active": "3a13d437d3c7835b",
   "lastOpenFiles": [
+    "2. Fleeting Note/Untitled 1.base",
+    "2. Fleeting Note/Untitled.base",
     "conflict-files-obsidian-git.md",
     "98. Templates/QuickNote.md",
     "2. Fleeting Note/Pull-up and pull-down resistor.md",
@@ -267,8 +236,6 @@
     "1. Notes/Computer Science/Cloud/In case they ask you what is Cloud Computing.md",
     "98. Templates/Properties.md",
     "98. Templates/Reference Section.md",
-    "98. Templates/Further Reading Section.md",
-    "1. Notes/Computer Science/Crytographic",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
