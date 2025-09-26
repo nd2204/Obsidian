@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba5e2654869e4cc2",
+            "id": "2d33c1694d985c1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Object Oriented Programming"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
-            "id": "8ef46475e9f0e402",
+            "id": "67363c9f16b157c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1. Notes/Game Dev/Game Engine/Handle based resources management.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Handle based resources management"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -61,16 +61,6 @@
             }
           },
           {
-            "id": "b84e06f9eb732d72",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "e03f0ce29d7039e4",
             "type": "leaf",
             "state": {
@@ -85,8 +75,7 @@
               "title": "Outline of Object Oriented Programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3ba24f8f58e75c21",
@@ -213,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -226,15 +216,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8ef46475e9f0e402",
+  "active": "67363c9f16b157c0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "1. Notes/Game Dev/Game Engine/Handle based resources management.md",
+    "2. Fleeting Note/GAME ENGINE DEV LEARNING PLAN.md",
+    "2. Fleeting Note/Final Year Project Report Structure - 3D Game Engine with Vulkan.md",
+    "1. Notes/Computer Science/Networking/Study Plans.md",
     "1. Notes/Game Dev/Game Engine",
     "1. Notes/Computer Science/Object Oriented Programming",
     "98. Templates/Note.md",
     "2. Fleeting Note/PTTKHDT.md",
     "1. Notes/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
-    "conflict-files-obsidian-git.md",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
     "1. Notes/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
@@ -246,7 +240,6 @@
     "98. Templates/Scripts/Untitled.md",
     "98. Templates/Scripts",
     "1. Notes/Computer Science/Design Patterns/Behavioral Patterns",
-    "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "1. Notes/Computer Science/Design Patterns/Observer Pattern.md",
     "98. Templates/Navigation Section.md",
     "1. Notes/Computer Science/Cloud/Amazon EC2.md",
@@ -261,9 +254,6 @@
     "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
     "1. Notes/Computer Science/Pointer.md",
     "1. Notes/Computer Science/Networking",
-    "Excalidraw/Drawing 2025-04-07 13.45.38.excalidraw.md",
-    "1. Notes/Computer Science/Design Patterns/Flyweight.md",
-    "1. Notes/Computer Science/Build System/Make.md",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
