@@ -5,7 +5,7 @@
   "monospaceFontFamily": "RobotoMono Nerd Font Mono",
   "interfaceFontFamily": "RobotoMono Nerd Font Propo",
   "translucency": false,
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "showViewHeader": true,
   "baseFontSizeAction": true,
   "theme": "obsidian",

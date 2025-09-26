@@ -34,9 +34,24 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "5a74e0227e71b96b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: appearance.json"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,9 +231,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "67363c9f16b157c0",
+  "active": "5a74e0227e71b96b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "98. Templates/QuickNote.md",
+    "2. Fleeting Note/Pull-up and pull-down resistor.md",
+    "1. Notes/Game Dev/GameEngine/Untitled.md",
+    "1. Notes/Game Dev/GameEngine",
     "1. Notes/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "1. Notes/Game Dev/Game Engine/Handle based resources management.md",
     "2. Fleeting Note/GAME ENGINE DEV LEARNING PLAN.md",
@@ -249,11 +268,7 @@
     "98. Templates/Properties.md",
     "98. Templates/Reference Section.md",
     "98. Templates/Further Reading Section.md",
-    "98. Templates/Resources.md",
     "1. Notes/Computer Science/Crytographic",
-    "1. Notes/Computer Science/Networking/Client-Server model in depth.md",
-    "1. Notes/Computer Science/Pointer.md",
-    "1. Notes/Computer Science/Networking",
     "1. Notes/Untitled.canvas",
     "1. Notes/OpenGL/images/texture_wrapping.png",
     "1. Notes/OpenGL/images/texture_filtering.png",
