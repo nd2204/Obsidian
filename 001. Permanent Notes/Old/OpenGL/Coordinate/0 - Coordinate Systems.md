@@ -1,6 +1,6 @@
 tags: #opengl #graphic
 
-next: [[1. Local space]]
+next: [[0.1 Local space]]
 
 ---
 There are total of 5 differenct coordinate systems that are important to us:
