@@ -7,5 +7,6 @@
   "templater-obsidian",
   "obsidian-spaced-repetition",
   "obsidian-linter",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "dataview"
 ]
