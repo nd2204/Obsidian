@@ -1,13 +1,14 @@
 ---
-id: Uniform
-created_date: 2025-04-04
-updated_date: 2025-04-04
-type: note
+id: 2baf257c-7c20-4119-a53d-591c39994620
+created_date: 2025-04-04T09:15:14
+type: literature
 tags:
-  - shader
-  - opengl
-  - Programming
+  - "#CompGraph"
+  - "#OpenGL"
+links:
 ---
+
+
 ---
 > [!important] note
 > Uniforms are another way to pass data from our application on the CPU to the shaders on the GPU. Uniforms are however slightly different compared to vertex attributes. First of all, uniforms are global. Global, meaning that a uniform variable is unique per shader program object, and can be accessed from any shader at any stage in the shader program. Second, whatever you set the uniform value to, uniforms will keep their values until they’re either reset or updated.

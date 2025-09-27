@@ -26,6 +26,7 @@
     "updated_date": "datetime",
     "created_date": "datetime",
     "parent": "multitext",
-    "links": "multitext"
+    "links": "multitext",
+    "references": "multitext"
   }
 }

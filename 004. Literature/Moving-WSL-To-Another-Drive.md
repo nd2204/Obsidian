@@ -1,4 +1,11 @@
-tags: #wsl
+---
+id: 02e2819a-c771-4465-86d4-2d74eed5ba29
+created_date: 2025-04-04T09:15:14
+type: literature
+tags:
+  - WindowSubsystemForLinux
+links:
+---
 
 ---
 # Installing/Moving WSL on/to another drive in Windows

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiImages",
       "LiListTree",
       "LiComponent",
-      "LiBook",
-      "LiBookTemplate",
-      "LiPen"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "001. Permanent Notes": "LiAxe",
-  "002. Fleeting Note": "LiAlarmClock",
-  "003. Literature Note": "LiBook",
   "998. Templates": "LiBookTemplate",
   "999. Excalidraw": "LiComponent",
-  "000. MoC": "LiListTree"
+  "000. MoC": "LiListTree",
+  "997. Media Files": "LiImages",
+  "003. Staging": "LiListTodo",
+  "002. Fleeting": "LiAlarmClock",
+  "001. Permanent": "LiAxe",
+  "004. Literature": "LiBook"
 }

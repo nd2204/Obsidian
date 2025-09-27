@@ -1,20 +1,24 @@
 ---
-id: 1.2. Vertex Buffer Object (VBO)
-created_date: 2025/04/04
-updated_date: 2025/04/04
-type: note
+id: e1a85c40-36c1-4f02-b512-7516380a93c0
+created_date: 2025-04-04T09:15:14
+type: literature
 tags:
-  - opengl
-  - Programming
-  - graphic
+  - "#CompSci"
+links:
 ---
+---
+**Linked to this**
+```dataviewjs
+
+// Show all files that link TO this one
+
+let inlinks = dv.current().file.inlinks;
+
+dv.list(inlinks);
+
+```
 ---
 
-| Next     | [[1.3. Vertex Attribute (VA)]]<br> |
-| -------- | ---------------------------------- |
-| Previous | [[1.1. OpenGL Buffer - Overview]]  |
-
----
 > [!information] Overview
 A Vertex Buffer Object (VBO) is a fundamental concept in OpenGL, serving as a mechanism for efficiently managing and transferring vertex data from the CPU to the GPU. VBOs play a crucial role in optimizing rendering performance by minimizing redundant data transfers and providing a means for storing vertex attributes.
 
@@ -77,7 +81,7 @@ A Vertex Buffer Object (VBO) is a fundamental concept in OpenGL, serving as a me
 5. **Updating Data:**
     - Data in a VBO can be updated using `glBufferSubData()` or by mapping the buffer into client space with `glMapBuffer()`.
 	
-6. **Vertex Attributes: [[1.4. Vertex Array Object (VAO)]]**
+6. **Vertex Attributes: [[OpenGL's Vertex Array Object (VAO)]]**
     - VBOs are used in conjunction with Vertex Array Objects (VAOs) to define vertex attributes.
     - The association between VBOs and vertex attributes is established through attribute pointers.
 	

@@ -1,12 +1,4 @@
----
-id: <% crypto.randomUUID() %>
-created_date: <% tp.file.creation_date('YYYY-MM-DDTHH:mm:ss') %>
-type: permanent
-tags:
-  - Uncategorized
-links:
-zettel_id: "-1"
----
+
 ---
 **Linked to this**
 ```dataviewjs

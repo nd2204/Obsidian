@@ -1,6 +1,6 @@
 {
   "spellcheck": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "vimMode": true,
   "showUnsupportedFiles": true,
   "mobileToolbarCommands": [
@@ -31,5 +31,5 @@
   "newLinkFormat": "shortest",
   "newFileLocation": "folder",
   "defaultViewMode": "source",
-  "newFileFolderPath": "2. Fleeting Note"
+  "newFileFolderPath": "002. Fleeting Note"
 }

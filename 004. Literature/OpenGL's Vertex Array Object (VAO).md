@@ -1,8 +1,23 @@
-tag: #opengl #graphic #Programming 
+---
+id: 857f200e-0c0a-4b7b-b541-75a4c50278d8
+created_date: 2025-04-04T09:15:14
+type: literature
+tags:
+  - CompGraph
+  - OpenGL
+links:
+---
+---
+**Linked to this**
+```dataviewjs
 
-previous: [[1.3. Vertex Attribute (VA)]]
-next: [[4.]]
+// Show all files that link TO this one
 
+let inlinks = dv.current().file.inlinks;
+
+dv.list(inlinks);
+
+```
 ---
 > [!important]
 > A *vertex array object* (also known as VAO) can be bound just like a *vertex buffer object* and any subsequent vertex attribute calls from that point on will be stored inside the VAO. This has the advantage that when configuring vertex attribute pointers you only have to make those calls once and whenever we want to draw the object, we can just bind the corresponding VAO. This makes switching between different vertex data and attribute configurations as easy as binding a different VAO. All the state we just set is stored inside the VAO.
