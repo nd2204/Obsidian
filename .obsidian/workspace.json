@@ -11,10 +11,14 @@
             "id": "6f82e425c742ca9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001. Permanent Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -209,6 +213,9 @@
   },
   "active": "6f82e425c742ca9a",
   "lastOpenFiles": [
+    "2025-09-27.md",
+    "001. Permanent Notes/Untitled.md",
+    "001. Permanent Notes/Old/OpenGL/1.2. Vertex Buffer Object (VBO).md",
     "998. Templates/QuickNote.md",
     "001. Permanent Notes/Old/OpenGL/Coordinate/0.1 Local space.md",
     "Untitled.md",
@@ -247,13 +254,10 @@
     "001. Permanent Notes/Old/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
     "001. Permanent Notes/Old/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
     "001. Permanent Notes/Old/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
-    "001. Permanent Notes/Old/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "001. Permanent Notes/Old/Computer Science/Design Patterns/Creational Patterns",
     "001. Permanent Notes/Old/Computer Science/Design Patterns/Structural Patterns",
-    "98. Templates/Number to star icon.md",
     "998. Templates/Scripts/number2star.js",
     "98. Templates/Scripts/main.js",
-    "98. Templates/Scripts/Untitled.md",
     "1. Notes/Untitled.canvas"
   ]
 }
