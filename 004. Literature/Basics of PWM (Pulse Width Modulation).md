@@ -4,8 +4,9 @@ created_date: 2025-09-26T23:50:14
 type: literature
 tags:
   - "#EmbeddedProgramming"
+  - "#Electronic"
+  - "#Physic"
 links:
-parent:
 references: https://docs.arduino.cc/learn/microcontrollers/analog-output/
 ---
 ###### Cơ sở lý thuyết:

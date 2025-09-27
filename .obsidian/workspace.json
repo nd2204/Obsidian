@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004. Literature/Basics of PWM (Pulse Width Modulation).md",
+                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics of PWM (Pulse Width Modulation)"
+              "title": "0a-Study-Plan"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004. Literature/Basics of PWM (Pulse Width Modulation).md",
+                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basics of PWM (Pulse Width Modulation)"
+              "title": "Outline of 0a-Study-Plan"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004. Literature/Basics of PWM (Pulse Width Modulation).md",
+                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basics of PWM (Pulse Width Modulation)"
+              "title": "Backlinks for 0a-Study-Plan"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004. Literature/Basics of PWM (Pulse Width Modulation).md",
+                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basics of PWM (Pulse Width Modulation)"
+              "title": "Outgoing links from 0a-Study-Plan"
             }
           },
           {
@@ -214,11 +214,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7f89407139505b7b",
+  "active": "1fb003879473a362",
   "lastOpenFiles": [
+    "Old/AI-ML/0b-Setting Up.md",
+    "Old/AI-ML/0a-Study-Plan.md",
+    "Old/AI-ML/1-Linear-Regression-p1.md",
+    "004. Literature/Basics of PWM (Pulse Width Modulation).md",
     "997. Media Files/Pasted image 20250927101603.png",
     "Old/Wellbeing/Nutrient Calculation.md",
-    "004. Literature/Basics of PWM (Pulse Width Modulation).md",
     "004. Literature/OpenGL's Vertex Buffer Object (VBO).md",
     "004. Literature/Moving-WSL-To-Another-Drive.md",
     "004. Literature/OpenGL's Uniform.md",
@@ -241,8 +244,6 @@
     "001. Permanent/1b3. Texture Mipmap.md",
     "001. Permanent/2. Artificial Inteligent.md",
     "003. Staging/Blender shortcuts for actions.md",
-    "001. Permanent/1b2. Texture Filtering.md",
-    "000. MoC/Computer Graphics.md",
     "000. MoC",
     "997. Media Files/filter_bilinear.png",
     "997. Media Files/filter_nearest.png",
