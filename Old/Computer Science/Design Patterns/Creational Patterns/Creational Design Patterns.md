@@ -1,6 +1,6 @@
 ---
 id: f9add331-5aee-4af0-98cb-03cdec754c74
-created_date: <% tp.file.creation_date('YYYY-MM-DDTHH:mm:ss') %>
+created_date: 2025-09-27T21:26:07
 type: note
 tags:
   - "#DesignPattern"

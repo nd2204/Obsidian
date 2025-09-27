@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33947c02d1e6b0bc",
+        "id": "a89c5f65d1d0bfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1fb003879473a362",
+            "id": "04071ffdeaec4fe7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Old/AI-ML/0a-Study-Plan.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "0a-Study-Plan"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -33,40 +33,6 @@
       {
         "id": "08f2e435027f1b31",
         "type": "tabs",
-        "dimension": 54.1033434650456,
-        "children": [
-          {
-            "id": "e53f20c5fde5b156",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "e03f0ce29d7039e4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Old/AI-ML/0a-Study-Plan.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 0a-Study-Plan"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3ba24f8f58e75c21",
-        "type": "tabs",
-        "dimension": 45.8966565349544,
         "children": [
           {
             "id": "1f661f65b761be9c",
@@ -84,12 +50,33 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "e53f20c5fde5b156",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b84e06f9eb732d72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -99,7 +86,7 @@
       {
         "id": "ca0c3dfb848bda9d",
         "type": "tabs",
-        "dimension": 67.7570093457944,
+        "dimension": 51.067961165048544,
         "children": [
           {
             "id": "7f89407139505b7b",
@@ -108,14 +95,14 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a0705905856985ef",
+            "id": "babfde68ccffdd80",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -129,7 +116,7 @@
       {
         "id": "bc32689c845ea702",
         "type": "tabs",
-        "dimension": 32.242990654205606,
+        "dimension": 48.932038834951456,
         "children": [
           {
             "id": "0751e26b84b45e58",
@@ -137,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0a-Study-Plan"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old/AI-ML/0a-Study-Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0a-Study-Plan"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,6 +165,20 @@
             }
           },
           {
+            "id": "e03f0ce29d7039e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
             "id": "6a11e3c57a8874f8",
             "type": "leaf",
             "pinned": true,
@@ -192,11 +191,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,53 +213,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1fb003879473a362",
+  "active": "6a11e3c57a8874f8",
   "lastOpenFiles": [
-    "Old/AI-ML/0b-Setting Up.md",
-    "Old/AI-ML/0a-Study-Plan.md",
-    "Old/AI-ML/1-Linear-Regression-p1.md",
-    "004. Literature/Basics of PWM (Pulse Width Modulation).md",
-    "997. Media Files/Pasted image 20250927101603.png",
-    "Old/Wellbeing/Nutrient Calculation.md",
-    "004. Literature/OpenGL's Vertex Buffer Object (VBO).md",
-    "004. Literature/Moving-WSL-To-Another-Drive.md",
-    "004. Literature/OpenGL's Uniform.md",
-    "004. Literature/OpenGL's Vertex Array Object (VAO).md",
-    "004. Literature/Detailed Game Design Documentation Template.md",
-    "001. Permanent/1d. Vertex Attribute.md",
-    "998. Templates/InLink.md",
-    "998. Templates/LiteratureNote.md",
-    "998. Templates/PermanentNote.md",
-    "001. Permanent/1a1. Local space.md",
-    "001. Permanent/1a. Coordinate Systems.md",
-    "001. Permanent/1. Computer Graphic.md",
-    "001. Permanent/1c. GPU Buffer.md",
-    "004. Literature",
-    "001. Permanent/Old/OpenGL/OpenGL Shader.md",
-    "001. Permanent/Old/OpenGL/Opengl Rendering pipeline.md",
-    "001. Permanent/1c1. OpenGL Buffer.md",
-    "001. Permanent/1b. Texture.md",
-    "001. Permanent/1b1. Texture Wrapping.md",
-    "001. Permanent/1b3. Texture Mipmap.md",
-    "001. Permanent/2. Artificial Inteligent.md",
     "003. Staging/Blender shortcuts for actions.md",
-    "000. MoC",
-    "997. Media Files/filter_bilinear.png",
+    "003. Staging",
+    "002. Fleeting/Pull-up and pull-down resistor.md",
+    "002. Fleeting/PTTKHDT.md",
+    "002. Fleeting/LTHT.md",
+    "002. Fleeting/GAME ENGINE DEV LEARNING PLAN.md",
+    "002. Fleeting/Final Year Project Report Structure - 3D Game Engine with Vulkan.md",
+    "002. Fleeting/App Ideas.md",
+    "002. Fleeting",
+    "Old/Computer Science/Design Patterns/Behavioral Patterns/Command Pattern.md",
+    "Old/Computer Science/Design Patterns/Creational Patterns/Creational Design Patterns.md",
+    "Old/Computer Science/Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
+    "Old/Web Dev/HTML-CSS-JS/CSS Learning Resources.md",
+    "Old/Uni/TACN/New word.md",
+    "Old/Uni/CTDL và Giải thuật/Untitled 1.md",
+    "Old/Game Dev/Visual Scripting Unity/SuperUnit.md",
+    "Old/Game Dev/Visual Scripting Unity/2D Plaformer.md",
+    "Old/Game Dev/Physic/Physics for game dev.md",
+    "Old/Game Dev/SDL/SDL-Study-Plan.md",
+    "Old/Game Dev/GDD/Untitled Kanban.md",
+    "Old/Game Dev/GameEngine/Untitled.md",
+    "Old/Game Dev/Game Engine/Handle based resources management.md",
+    "Old/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+    "Old/Computer Science/Networking/Client-Server model in depth.md",
+    "Old/Computer Science/Networking/Study Plans.md",
+    "Old/Computer Science/Design Patterns/Observer Pattern.md",
+    "Old/Computer Science/Design Patterns/Flyweight.md",
+    "Old/Computer Science/Design Patterns/Creational Patterns",
+    "Old/Computer Science/Design Patterns/Behavioral Patterns",
+    "Old/Computer Science/Compiler/Compiler-Flag.md",
+    "Old/Web Dev/HTML-CSS-JS",
+    "Old/Uni/TACN",
+    "Old/Uni/CTDL và Giải thuật",
+    "Old/Game Dev/Visual Scripting Unity",
+    "Old/Game Dev/Physic",
+    "Old/Game Dev/SDL",
+    "997. Media Files/texture_wrapping.png",
+    "997. Media Files/texture_filtering.png",
+    "997. Media Files/texture_coordinates.png",
+    "997. Media Files/textures.png",
+    "997. Media Files/Pasted image 20250927101603.png",
     "997. Media Files/filter_nearest.png",
     "997. Media Files/mipmap.png",
-    "997. Media Files/texture_coordinates.png",
-    "997. Media Files/texture_filtering.png",
-    "997. Media Files/texture_wrapping.png",
-    "997. Media Files/textures.png",
-    "db.base",
-    "Pasted image 20250927101559.png",
-    "Old",
-    "2. Fleeting Note/Untitled.base",
-    "Old/Game Dev/GameEngine",
-    "Old/Game Dev/Game Engine",
-    "Old/Computer Science/Object Oriented Programming",
-    "Old/Computer Science/Design Patterns/Creational Patterns",
-    "Old/Computer Science/Design Patterns/Structural Patterns",
+    "997. Media Files/filter_bilinear.png",
+    "1. Notes/OpenGL/images/texture_wrapping.png",
+    "1. Notes/OpenGL/images/texture_filtering.png",
     "1. Notes/Untitled.canvas"
   ]
 }
