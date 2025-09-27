@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a89c5f65d1d0bfb7",
+        "id": "545b8659854db82d",
         "type": "tabs",
         "children": [
           {
-            "id": "04071ffdeaec4fe7",
+            "id": "6f236bfb225a215c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Old/AI-ML/0a-Study-Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "0a-Study-Plan"
             }
           }
         ]
@@ -213,8 +213,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6a11e3c57a8874f8",
+  "active": "6f236bfb225a215c",
   "lastOpenFiles": [
+    "Old/AI-ML/0b-Setting Up.md",
+    "Old/AI-ML/0a-Study-Plan.md",
+    "Old/AI-ML/1-Linear-Regression-p1.md",
+    "Old/AI-ML/2-Linear-Regression-p2.md",
+    "Old/AI-ML/3-Saving-Model-and-Plotting-Data.md",
     "003. Staging/Blender shortcuts for actions.md",
     "003. Staging",
     "002. Fleeting/Pull-up and pull-down resistor.md",
@@ -238,13 +243,8 @@
     "Old/Game Dev/GameEngine/Untitled.md",
     "Old/Game Dev/Game Engine/Handle based resources management.md",
     "Old/Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-    "Old/Computer Science/Networking/Client-Server model in depth.md",
-    "Old/Computer Science/Networking/Study Plans.md",
-    "Old/Computer Science/Design Patterns/Observer Pattern.md",
-    "Old/Computer Science/Design Patterns/Flyweight.md",
     "Old/Computer Science/Design Patterns/Creational Patterns",
     "Old/Computer Science/Design Patterns/Behavioral Patterns",
-    "Old/Computer Science/Compiler/Compiler-Flag.md",
     "Old/Web Dev/HTML-CSS-JS",
     "Old/Uni/TACN",
     "Old/Uni/CTDL và Giải thuật",
