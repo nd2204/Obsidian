@@ -10,7 +10,7 @@ tags:
 ---
 ---
 
-| Prerequisite | - [[Object Oriented Programming]]<br>- [[Behavioral Design Patterns]] |
+| Prerequisite | - [[5a. Object Oriented Programming]]<br>- [[4a. Behavioral Design Patterns]] |
 | ------------ | --------------------------------------------------------------------- |
 
 ---

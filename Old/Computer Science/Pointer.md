@@ -8,7 +8,7 @@ giả sử ta có biến `i` chiếm 2 byte (2 ô bộ nhớ trong ví dụ này
 
 ![[Pointer0]]
 
-- Con trỏ được sử dụng rộng rãi trong các [[ProgrammingLanguage#LOW LEVEL PROGRAMMING LANGUAGE|Ngôn ngữ bậc thấp]] như C và C++ để làm việc trực tiếp với bộ nhớ khiến nó trở thành công cụ mạnh mẽ trong việc tối ưu code
+- Con trỏ được sử dụng rộng rãi trong các [[5. ProgrammingLanguage#LOW LEVEL PROGRAMMING LANGUAGE|Ngôn ngữ bậc thấp]] như C và C++ để làm việc trực tiếp với bộ nhớ khiến nó trở thành công cụ mạnh mẽ trong việc tối ưu code
 
 ### KHAI BÁO KIỂU DỮ LIỆU CHO CON TRỎ
 - Bản thân biến con trỏ không có kiểu dữ liệu riêng nào cho nên ta phải khai báo cho nó kiểu dữ liệu nào đó ```kieu_du_lieu *ten_con_tro``` 

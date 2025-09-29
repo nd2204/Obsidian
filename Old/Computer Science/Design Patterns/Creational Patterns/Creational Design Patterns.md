@@ -8,7 +8,7 @@ tags:
 ---
 ---
 
-| Prerequisite | - [[Object Oriented Programming]] |
+| Prerequisite | - [[5a. Object Oriented Programming]] |
 | ------------ | --------------------------------- |
 
 ---
@@ -21,7 +21,7 @@ tags:
 ---
 ## 🕳️ Further Reading
 ---
-- [[Behavioral Design Patterns]]
+- [[4a. Behavioral Design Patterns]]
 - [[Structural Design Patterns]]
 
 ---
