@@ -10,6 +10,9 @@ references:
 ---
 Database Management System (DBMS)
 
-Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm lập trình
+Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụng để giao tiếp với cơ sở dữ liệu.
+- DBMS Cho phép người dùng thực hiện các hành động như tạo, duy trì, quản lý và kiểm soát truy cập vào cơ sở dữ liệu.
+- Nếu DBMS không tồn tại thì việc tương tác với DB sẽ rất bất tiện do bản chất của database chỉ là dữ liệu 
+- 
 
 Structured Query Language (SQL)
