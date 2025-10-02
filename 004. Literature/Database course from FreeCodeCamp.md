@@ -22,7 +22,12 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 Các thành phần của DBMS bao gồm:
 - Kết nối mạng (Connections) - Ám chỉ việc DBMS hoạt động như một ứng dụng độc lập được kết nối mạng và cho phép các thiết bị mạng khác kết nối đến nó
 - Bảo mật (Security) - Một số các cơ sở dữ liệu không bao gồm cơ chế bảo mật (VD: SQLite) vì một số lý do (xem thêm:[[Why use SQLite | Tại sao sử dụng SQLite?]]). Ở các DBMS phổ biến luôn bao gồm cơ chế bảo mật do nó cho phép nhiều người dùng truy cập DB và thường được sử dụng trên không gian mạng.
-- Các tiện ích (Utilities) - Một số DBMS cung cấp cho người dùng các tính năng mà các DBMS khác không có điều này cũng tạo nên vô số các cuộc tranh luận cho việc sử dụng DBMS nào phù hợp 
+- Các tiện ích (Utilities) - Một số DBMS cung cấp cho người dùng các tính năng mà các DBMS khác không có điều này cũng tạo nên vô số các cuộc tranh luận cho việc sử dụng DBMS nào phù hợp nhất.
+- Trình xử lý truy vấn (Query Processor) - Xử lý truy vấn dựa trên **Ngôn ngữ truy vấn** mà DBMS hỗ trợ. Các DBMS có chứa "SQL" ở tên của nó thường hỗ trợ ngôn ngữ SQL (duhh) "tiêu chuẩn" và có thể cung cấp các syntax 
+	- Query Parser
+	- Query Rewriter
+	- Query Optimizer
+	- Query Executor
 
 Structured Query Language (SQL)
 
