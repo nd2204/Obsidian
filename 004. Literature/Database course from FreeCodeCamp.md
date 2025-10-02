@@ -17,10 +17,9 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 
 
 > [!important] Phân biệt giữa DBMS và Database
-> Database management system 
-
-
-
+> Database là **dữ liệu** còn DBMS là phần mềm để tương tác với database
 
 
 Structured Query Language (SQL)
+
+Ngôn ngữ truy vấn cấu trúc (SQL) là một thành phần của [[6.1. Database Management System (DBMS)]]
