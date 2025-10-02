@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#CompSci",
+      "color": {
+        "a": 1,
+        "rgb": 12106534
+      }
+    },
+    {
+      "query": "[\"zettel_id\":1]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.6,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 0.90390625,
   "lineSizeMultiplier": 0.59765625,
   "collapse-forces": false,
-  "centerStrength": 0.549479166666667,
-  "repelStrength": 10,
+  "centerStrength": 0.3984375,
+  "repelStrength": 9.94791666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6195137254149838,
-  "close": true
+  "scale": 0.35276034158666053,
+  "close": false
 }
