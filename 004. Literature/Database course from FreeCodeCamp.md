@@ -19,6 +19,9 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 > [!important] Phân biệt giữa DBMS và Database
 > Database là **dữ liệu** còn DBMS là phần mềm để tương tác với database
 
+Các thành phần của DBMS bao gồm:
+- Kết nối mạng (Connections) - Ám chỉ việc DBMS hoạt động như một ứng dụng độc lập được kết nối mạng và cho phép các thiết bị mạng khác kết nối đến nó
+- Bảo mật (Security) - Một số các cơ sở dữ liệu không bắt buộc
 
 Structured Query Language (SQL)
 
