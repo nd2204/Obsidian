@@ -21,7 +21,7 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 
 Các thành phần của DBMS bao gồm:
 - Kết nối mạng (Connections) - Ám chỉ việc DBMS hoạt động như một ứng dụng độc lập được kết nối mạng và cho phép các thiết bị mạng khác kết nối đến nó
-- Bảo mật (Security) - Một số các cơ sở dữ liệu không bắt buộc
+- Bảo mật (Security) - Một số các cơ sở dữ liệu không bao gồm cơ chế bảo mật (VD: SQLite) vì một số lý do (xem thêm:[[Why use SQLite | Tại sao sử dụng SQLite?]]). Ở các DBMS phổ biến luôn bao gồm cơ chế bảo mật do nó cho phép nhiều người dùng truy cập DB và exposed trên không gian mạng.
 
 Structured Query Language (SQL)
 
