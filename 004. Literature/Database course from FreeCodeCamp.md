@@ -41,3 +41,33 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 
 Ngôn ngữ truy vấn cấu trúc (SQL) là một thành phần của [[6.1. Database Management System (DBMS)]]
 
+- Được sử dụng để cấp lệnh cho DBMS.
+- SQL "Tiêu chuẩn" ra đời từ những năm 70.
+- Bao gồm rất nhiều tính năng nhưng chúng ta phần lớn chỉ sử dụng một **nhánh nhỏ** của nó.
+
+###### Các loại lệnh (SQL Command Types)
+- DDL: Data Definition Language
+	- Xác định content cho database (schema)
+- DML: Data Manipulation Language
+	- Thay đổi và truy vấn DB
+- TCL: Transaction Control Language
+	- Nhóm các lệnh SQL với nhau (transaction)
+- DCL: Data Control Language
+	- Cấp quyền truy cập dữ liệu 
+
+
+###### Schema
+Schema có thể coi như một "bản vẽ thiết kế" cho DB.
+
+- Cho phép định nghĩa các trường (column/property) và kiểu dữ liệu của nó
+- Cho phép định nghĩa ràng buộc (constraint) cho dữ liệu, mối quan hệ của nó
+
+Định nghĩa schema trong SQL
+
+```SQL
+CREATE TABLE <table> (<table-def>)
+```
+
+- `<table` là tên bảng 
+- `<table-def>` là các định nghĩa cho **trường (property)** được ngăn cách bởi dấu phẩy (",")
+- Định nghĩa trường theo dạng `<tên> <kiểu dữ liệu>`
