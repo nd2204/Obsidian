@@ -40,3 +40,4 @@ Hệ quản trị cơ sở dữ liệu hay (DBMS) là phần mềm chuyên dụn
 #### Structured Query Language (SQL)
 
 Ngôn ngữ truy vấn cấu trúc (SQL) là một thành phần của [[6.1. Database Management System (DBMS)]]
+
