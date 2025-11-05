@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "[\"zettel_id\":1]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.6,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 0.90390625,
   "lineSizeMultiplier": 0.59765625,
   "collapse-forces": false,
-  "centerStrength": 0.549479166666667,
-  "repelStrength": 10,
+  "centerStrength": 0.877604166666667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6195137254149838,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.35276034158666053,
+  "close": false
 }

@@ -5,7 +5,7 @@ type: permanent
 tags:
   - Uncategorized
 links:
-zettel_id: "-1"
+zettel_id:
 ---
 ---
 **Linked to this**

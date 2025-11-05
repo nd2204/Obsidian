@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiClipboard",
       "LiListTodo",
       "LiImages",
       "LiListTree",
-      "LiComponent",
-      "LiBook"
+      "LiComponent"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "003. Staging": "LiListTodo",
   "002. Fleeting": "LiAlarmClock",
   "001. Permanent": "LiAxe",
-  "004. Literature": "LiBook"
+  "004. Literature": "LiBook",
+  "005. Projects": "LiClipboard"
 }
